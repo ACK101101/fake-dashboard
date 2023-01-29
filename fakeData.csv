@@ -1,0 +1,1001 @@
+,Judge_Name,Judge_Reject,Judge_Impose,Judge_Impose2,Def_Race,Court,Def_Gender,AnyCriminalHistory,crimetype_people,crimetype_violent,crimetype_property,crimetype_drug,crimetype_mva,crimetype_financial,crimetype_firearms,days_btwn_arrest_plea,days_btwn_plea_tender,DefAttorneyType,X1stCharge_Status,X1stPROS_SentLength,X1stPROS_ProbLength,X1stPROS_SentenceType,RehabTreatment,X1stPROS_Prison.,X1stPROS_Probation
+0,Julia Obrien,No,Yes,Unknown,Black,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,322.0,46.0,a private attorney,Guilty verdict/finding,9.0,34.0,Probation,No,No,No
+1,Rebecca Becker,Yes,Yes,Less,Hispanic,District Court,Female,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,244.0,718.0,unknown,267/87,6.0,47.0,"State Prison,Probation",No,No,Yes
+2,Matthew Perez,No,No,Unknown,Hispanic,District Court,Female,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,448.0,279.0,a private attorney,Guilty verdict/finding,3.0,14.0,State Prison,Yes,No,No
+3,Paul Russell,Yes,No,Unclear,Black,Not yet determined,Male,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,405.0,98.0,a court-appointed lawyer,Guilty verdict/finding,2.0,38.0,Probation,Yes,No,No
+4,Rebecca Becker,No,Yes,More,White,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,424.0,706.0,a private attorney,Guilty verdict/finding,5.0,31.0,Probation,No,Yes,No
+5,Julia Obrien,Yes,No,Unclear,Hispanic,District Court,Male,1.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,539.0,624.0,a private attorney,Guilty verdict/finding,0.0,11.0,County/Split,No,Yes,Yes
+6,Roger Hensley,Yes,Yes,More,Unknown,District Court,Female,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,693.0,431.0,a private attorney,Continuance without a finding,6.0,37.0,Probation,Yes,No,No
+7,Kyle White,No,No,Less,Hispanic,Superior Court,Female,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,793.0,372.0,a private attorney,Dismissed,6.0,48.0,County/Split,No,No,Yes
+8,Julia Obrien,No,Yes,Unclear,Black,Superior Court,Female,1.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,836.0,61.0,from CPCS,Continuance without a finding,10.0,47.0,State Prison,Yes,Yes,Yes
+9,Kyle White,No,Yes,Unknown,White,District Court,Female,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,261.0,665.0,from CPCS,Guilty verdict/finding,0.0,13.0,Probation,No,Yes,Yes
+10,Kyle White,Yes,Yes,Unknown,Black,Not yet determined,Male,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,990.0,608.0,a court-appointed lawyer,Continuance without a finding,4.0,4.0,Probation,Yes,Yes,Yes
+11,Marie Green,Yes,No,Less,Other,District Court,Male,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,669.0,639.0,a private attorney,267/87,9.0,43.0,House of Corrections,Yes,No,Yes
+12,Matthew Perez,No,No,Unclear,Black,Superior Court,Male,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,933.0,307.0,a court-appointed lawyer,Nolle Prosequi,0.0,18.0,"State Prison,Probation",Yes,Yes,Yes
+13,Paul Russell,No,No,Less,Unknown,Superior Court,Male,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,688.0,426.0,from CPCS,Other,2.0,42.0,House of Corrections,Yes,No,Yes
+14,Marie Green,No,No,Unknown,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,458.0,794.0,from CPCS,Continuance without a finding,6.0,2.0,State Prison,No,Yes,No
+15,Roger Hensley,No,No,Unknown,Hispanic,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,769.0,217.0,a private attorney,Nolle Prosequi,7.0,46.0,County/Split,No,No,Yes
+16,Julia Obrien,Yes,Yes,Less,Unknown,Not yet determined,Female,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,646.0,170.0,a court-appointed lawyer,Other,0.0,46.0,"State Prison,Probation",Yes,Yes,No
+17,Roger Hensley,Yes,Yes,More,White,Not yet determined,Female,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,423.0,736.0,a court-appointed lawyer,Other,3.0,27.0,"State Prison,Probation",No,No,No
+18,Kyle White,Yes,No,Unknown,Hispanic,Not yet determined,Male,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,892.0,182.0,from CPCS,Continuance without a finding,10.0,29.0,County/Split,Yes,No,Yes
+19,Rebecca Becker,Yes,Yes,Less,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,680.0,472.0,a private attorney,267/87,9.0,13.0,House of Corrections,Yes,Yes,Yes
+20,Gregory Wilkins,No,Yes,More,Other,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,531.0,160.0,unknown,Continuance without a finding,4.0,4.0,House of Corrections,No,Yes,No
+21,Matthew Perez,Yes,No,Unknown,Black,District Court,Female,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,982.0,231.0,a private attorney,Continuance without a finding,6.0,20.0,"State Prison,Probation",Yes,No,Yes
+22,Kyle White,No,No,Unknown,Black,District Court,Female,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,716.0,557.0,unknown,Dismissed,10.0,33.0,House of Corrections,No,No,Yes
+23,Roger Hensley,No,No,More,Black,Not yet determined,Female,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,462.0,333.0,unknown,Continuance without a finding,4.0,21.0,House of Corrections,Yes,No,No
+24,Marie Green,Yes,No,Less,Black,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,889.0,478.0,a private attorney,Nolle Prosequi,3.0,45.0,House of Corrections,Yes,Yes,No
+25,Roger Hensley,No,No,Unclear,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,177.0,15.0,a court-appointed lawyer,Nolle Prosequi,9.0,18.0,"State Prison,Probation",Yes,No,No
+26,Matthew Perez,Yes,Yes,Unclear,Other,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,263.0,589.0,a court-appointed lawyer,Guilty verdict/finding,6.0,48.0,Probation,Yes,Yes,No
+27,Zachary Mccall,No,Yes,More,Black,Superior Court,Female,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,798.0,648.0,a court-appointed lawyer,Continuance without a finding,9.0,28.0,"State Prison,Probation",Yes,No,Yes
+28,Kyle White,Yes,No,Unclear,Other,Superior Court,Male,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,903.0,723.0,unknown,Dismissed,9.0,11.0,House of Corrections,Yes,Yes,No
+29,Marie Green,No,No,Unknown,White,Superior Court,Female,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,558.0,105.0,from CPCS,Continuance without a finding,6.0,39.0,County/Split,Yes,Yes,Yes
+30,Matthew Perez,No,Yes,More,Hispanic,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,726.0,38.0,unknown,Guilty verdict/finding,2.0,44.0,State Prison,No,No,No
+31,Paul Russell,No,No,More,Unknown,Superior Court,Female,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,407.0,799.0,from CPCS,Dismissed,4.0,32.0,House of Corrections,No,Yes,No
+32,Gregory Wilkins,Yes,Yes,Less,Hispanic,Not yet determined,Female,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,973.0,327.0,from CPCS,Nolle Prosequi,6.0,45.0,House of Corrections,Yes,No,No
+33,Zachary Mccall,No,Yes,Less,Other,District Court,Male,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,175.0,225.0,from CPCS,267/87,10.0,12.0,"State Prison,Probation",No,Yes,No
+34,Gregory Wilkins,Yes,No,Less,Other,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,655.0,179.0,a private attorney,Other,0.0,8.0,"State Prison,Probation",Yes,No,No
+35,Kyle White,Yes,Yes,Less,Black,District Court,Female,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,614.0,798.0,a court-appointed lawyer,267/87,3.0,48.0,House of Corrections,No,Yes,Yes
+36,Roger Hensley,No,No,Unknown,Black,Not yet determined,Female,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,682.0,257.0,a private attorney,267/87,8.0,20.0,County/Split,No,Yes,Yes
+37,Rebecca Becker,No,No,Less,Hispanic,Not yet determined,Male,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,954.0,49.0,from CPCS,Guilty verdict/finding,6.0,6.0,County/Split,No,Yes,Yes
+38,Zachary Mccall,Yes,Yes,More,Hispanic,Not yet determined,Male,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,800.0,157.0,unknown,Guilty verdict/finding,7.0,48.0,State Prison,Yes,Yes,Yes
+39,Kaitlin Flores,No,Yes,Unclear,Hispanic,Superior Court,Male,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,909.0,471.0,from CPCS,Other,5.0,42.0,Probation,Yes,Yes,No
+40,Julia Obrien,Yes,No,Less,Hispanic,Superior Court,Female,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,951.0,116.0,a court-appointed lawyer,Continuance without a finding,9.0,25.0,Probation,Yes,No,No
+41,Paul Russell,Yes,No,Unknown,Hispanic,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,781.0,154.0,from CPCS,Continuance without a finding,4.0,10.0,Probation,No,No,Yes
+42,Julia Obrien,Yes,Yes,More,Hispanic,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,371.0,206.0,from CPCS,Dismissed,6.0,11.0,Probation,No,No,Yes
+43,Zachary Mccall,No,Yes,Unclear,White,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,781.0,350.0,unknown,Continuance without a finding,10.0,34.0,House of Corrections,Yes,Yes,No
+44,Paul Russell,No,No,More,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,779.0,620.0,a private attorney,Guilty verdict/finding,1.0,3.0,State Prison,Yes,No,No
+45,Zachary Mccall,No,Yes,Unclear,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,554.0,563.0,a private attorney,Guilty verdict/finding,5.0,28.0,House of Corrections,Yes,No,Yes
+46,Kaitlin Flores,No,Yes,Unclear,Hispanic,Not yet determined,Female,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,962.0,700.0,a court-appointed lawyer,Dismissed,7.0,19.0,County/Split,Yes,No,Yes
+47,Rebecca Becker,Yes,Yes,More,Unknown,District Court,Female,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,168.0,507.0,a court-appointed lawyer,267/87,8.0,33.0,Probation,Yes,No,Yes
+48,Rebecca Becker,No,No,More,Hispanic,Superior Court,Female,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,227.0,712.0,a private attorney,267/87,5.0,14.0,House of Corrections,No,No,Yes
+49,Matthew Perez,No,Yes,Less,Unknown,District Court,Male,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,418.0,165.0,from CPCS,Guilty verdict/finding,7.0,37.0,House of Corrections,No,No,No
+50,Rebecca Becker,No,No,More,White,District Court,Female,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,421.0,440.0,from CPCS,267/87,7.0,42.0,Probation,No,No,No
+51,Zachary Mccall,No,No,Unknown,Unknown,Not yet determined,Male,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,421.0,786.0,from CPCS,Continuance without a finding,4.0,22.0,County/Split,No,No,No
+52,Paul Russell,Yes,No,More,Hispanic,Superior Court,Male,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,669.0,344.0,a private attorney,Other,9.0,33.0,House of Corrections,No,Yes,No
+53,Kaitlin Flores,Yes,No,More,Other,District Court,Male,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,264.0,19.0,from CPCS,Nolle Prosequi,10.0,36.0,"State Prison,Probation",Yes,Yes,Yes
+54,Gregory Wilkins,Yes,Yes,Unclear,Black,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,930.0,714.0,unknown,267/87,5.0,35.0,"State Prison,Probation",No,Yes,No
+55,Kyle White,Yes,No,Less,Unknown,District Court,Female,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,554.0,441.0,unknown,Guilty verdict/finding,9.0,43.0,Probation,No,Yes,No
+56,Marie Green,No,No,Less,Unknown,Not yet determined,Female,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,772.0,236.0,a private attorney,267/87,1.0,31.0,Probation,No,Yes,No
+57,Paul Russell,Yes,Yes,More,Unknown,Superior Court,Male,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,271.0,82.0,a court-appointed lawyer,267/87,5.0,40.0,House of Corrections,Yes,Yes,Yes
+58,Rebecca Becker,Yes,Yes,Unknown,White,District Court,Male,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,261.0,318.0,from CPCS,Other,8.0,3.0,State Prison,No,Yes,Yes
+59,Julia Obrien,Yes,No,Less,Other,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,128.0,405.0,a private attorney,Guilty verdict/finding,9.0,4.0,"State Prison,Probation",No,No,No
+60,Marie Green,Yes,Yes,Unknown,Other,Superior Court,Female,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,147.0,60.0,from CPCS,Other,1.0,21.0,"State Prison,Probation",No,No,Yes
+61,Paul Russell,No,No,Unclear,Hispanic,Not yet determined,Female,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,775.0,61.0,a court-appointed lawyer,267/87,7.0,25.0,County/Split,No,Yes,No
+62,Marie Green,Yes,Yes,More,White,Not yet determined,Male,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,601.0,277.0,unknown,Nolle Prosequi,3.0,17.0,"State Prison,Probation",No,Yes,Yes
+63,Kaitlin Flores,Yes,Yes,Unknown,Black,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,314.0,227.0,a private attorney,Continuance without a finding,7.0,42.0,County/Split,Yes,Yes,No
+64,Matthew Perez,No,No,Unclear,Black,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,478.0,719.0,a private attorney,Other,7.0,15.0,State Prison,Yes,Yes,Yes
+65,Matthew Perez,Yes,No,Less,Black,Not yet determined,Female,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,441.0,280.0,a private attorney,Nolle Prosequi,2.0,16.0,"State Prison,Probation",Yes,No,Yes
+66,Paul Russell,No,No,Less,Unknown,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,474.0,398.0,a private attorney,267/87,7.0,47.0,County/Split,No,Yes,No
+67,Rebecca Becker,No,No,Unclear,Other,Not yet determined,Female,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,221.0,81.0,a private attorney,Continuance without a finding,9.0,33.0,"State Prison,Probation",No,No,No
+68,Marie Green,Yes,Yes,More,Unknown,Superior Court,Female,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,134.0,51.0,from CPCS,Nolle Prosequi,6.0,10.0,County/Split,No,No,Yes
+69,Kaitlin Flores,No,Yes,Unclear,Black,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,380.0,733.0,from CPCS,Continuance without a finding,4.0,10.0,"State Prison,Probation",No,No,Yes
+70,Rebecca Becker,Yes,No,Unclear,Black,Not yet determined,Male,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,357.0,502.0,from CPCS,Guilty verdict/finding,7.0,47.0,"State Prison,Probation",Yes,No,No
+71,Kyle White,Yes,No,More,Hispanic,District Court,Male,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,469.0,755.0,a court-appointed lawyer,Guilty verdict/finding,8.0,11.0,Probation,Yes,No,No
+72,Julia Obrien,No,Yes,Unclear,White,Superior Court,Male,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,454.0,320.0,a court-appointed lawyer,Dismissed,1.0,37.0,State Prison,Yes,No,Yes
+73,Zachary Mccall,Yes,Yes,Less,Hispanic,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,172.0,792.0,unknown,267/87,4.0,10.0,State Prison,No,No,No
+74,Matthew Perez,Yes,No,Unknown,White,Superior Court,Male,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,142.0,406.0,a court-appointed lawyer,Guilty verdict/finding,8.0,15.0,House of Corrections,Yes,Yes,No
+75,Paul Russell,No,No,More,Unknown,Superior Court,Male,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,479.0,34.0,a court-appointed lawyer,267/87,5.0,0.0,State Prison,Yes,No,Yes
+76,Kaitlin Flores,No,No,Unclear,Unknown,District Court,Female,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,149.0,476.0,from CPCS,267/87,9.0,33.0,"State Prison,Probation",No,No,No
+77,Matthew Perez,No,Yes,Unclear,Hispanic,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,296.0,58.0,a private attorney,Other,2.0,12.0,House of Corrections,Yes,Yes,Yes
+78,Paul Russell,Yes,No,Unknown,White,Not yet determined,Female,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,441.0,741.0,a court-appointed lawyer,Continuance without a finding,0.0,49.0,Probation,Yes,Yes,No
+79,Gregory Wilkins,No,Yes,More,Hispanic,Superior Court,Male,1.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,880.0,342.0,unknown,Nolle Prosequi,6.0,30.0,Probation,No,Yes,No
+80,Kyle White,No,Yes,Unclear,Other,District Court,Female,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,723.0,330.0,unknown,Other,8.0,33.0,Probation,Yes,Yes,Yes
+81,Kaitlin Flores,No,Yes,More,Hispanic,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,336.0,680.0,a court-appointed lawyer,Nolle Prosequi,1.0,17.0,Probation,Yes,No,Yes
+82,Zachary Mccall,No,Yes,Less,Black,District Court,Male,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,317.0,37.0,from CPCS,Dismissed,4.0,3.0,House of Corrections,No,Yes,Yes
+83,Roger Hensley,No,Yes,Unclear,Hispanic,District Court,Male,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,585.0,326.0,a private attorney,Nolle Prosequi,3.0,15.0,"State Prison,Probation",Yes,Yes,Yes
+84,Roger Hensley,Yes,No,More,Unknown,District Court,Female,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,803.0,331.0,a court-appointed lawyer,Dismissed,5.0,38.0,State Prison,No,No,No
+85,Paul Russell,Yes,Yes,Less,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,168.0,121.0,a private attorney,Nolle Prosequi,0.0,2.0,State Prison,Yes,Yes,No
+86,Marie Green,Yes,Yes,Less,Black,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,253.0,18.0,unknown,Nolle Prosequi,7.0,30.0,"State Prison,Probation",Yes,Yes,No
+87,Gregory Wilkins,Yes,Yes,Unclear,Black,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,344.0,128.0,from CPCS,Other,1.0,29.0,House of Corrections,No,No,No
+88,Kyle White,Yes,Yes,Unclear,Black,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,913.0,668.0,from CPCS,Continuance without a finding,2.0,40.0,County/Split,Yes,No,Yes
+89,Rebecca Becker,Yes,No,Unclear,White,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,445.0,172.0,a private attorney,Continuance without a finding,10.0,8.0,Probation,No,No,No
+90,Julia Obrien,No,Yes,Unclear,White,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,632.0,292.0,unknown,Nolle Prosequi,0.0,37.0,County/Split,Yes,Yes,Yes
+91,Rebecca Becker,No,Yes,More,Black,District Court,Male,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,388.0,295.0,a court-appointed lawyer,Other,4.0,22.0,Probation,Yes,No,No
+92,Gregory Wilkins,Yes,Yes,Unclear,Black,Not yet determined,Female,0.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,407.0,294.0,from CPCS,267/87,2.0,46.0,Probation,No,Yes,No
+93,Kaitlin Flores,No,Yes,Unclear,Black,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,884.0,444.0,a court-appointed lawyer,Guilty verdict/finding,9.0,1.0,State Prison,Yes,Yes,Yes
+94,Kaitlin Flores,No,Yes,Unclear,Unknown,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,724.0,799.0,unknown,Dismissed,5.0,0.0,Probation,No,Yes,No
+95,Roger Hensley,No,No,More,White,Superior Court,Female,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,819.0,264.0,from CPCS,Other,10.0,15.0,State Prison,Yes,No,Yes
+96,Matthew Perez,No,Yes,More,Hispanic,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,448.0,190.0,a private attorney,Nolle Prosequi,6.0,23.0,State Prison,No,Yes,Yes
+97,Rebecca Becker,Yes,Yes,Less,Unknown,District Court,Female,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,153.0,586.0,from CPCS,Dismissed,3.0,23.0,"State Prison,Probation",No,No,No
+98,Paul Russell,No,Yes,Less,Other,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,389.0,543.0,a private attorney,267/87,1.0,7.0,County/Split,Yes,No,No
+99,Kyle White,Yes,No,More,Hispanic,Superior Court,Female,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,255.0,109.0,from CPCS,Nolle Prosequi,4.0,27.0,County/Split,No,Yes,Yes
+100,Zachary Mccall,No,Yes,Less,Black,Superior Court,Male,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,342.0,428.0,a court-appointed lawyer,267/87,4.0,28.0,House of Corrections,Yes,Yes,No
+101,Julia Obrien,Yes,Yes,Less,Black,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,463.0,140.0,a private attorney,Nolle Prosequi,10.0,20.0,House of Corrections,No,Yes,Yes
+102,Zachary Mccall,Yes,Yes,Unknown,Other,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,896.0,681.0,from CPCS,Guilty verdict/finding,6.0,24.0,House of Corrections,No,Yes,Yes
+103,Matthew Perez,No,Yes,Unknown,Unknown,Superior Court,Male,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,408.0,760.0,a private attorney,Other,3.0,16.0,Probation,Yes,No,No
+104,Paul Russell,Yes,Yes,More,White,District Court,Female,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,653.0,576.0,a private attorney,Dismissed,5.0,18.0,"State Prison,Probation",Yes,Yes,No
+105,Kaitlin Flores,Yes,No,Unclear,White,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,550.0,168.0,from CPCS,267/87,7.0,8.0,State Prison,No,Yes,Yes
+106,Gregory Wilkins,No,Yes,Less,White,Not yet determined,Female,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,334.0,533.0,a court-appointed lawyer,Dismissed,7.0,22.0,County/Split,Yes,No,Yes
+107,Kyle White,Yes,Yes,Less,Black,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,124.0,631.0,a private attorney,Guilty verdict/finding,5.0,11.0,"State Prison,Probation",No,Yes,Yes
+108,Paul Russell,Yes,No,Less,Other,Not yet determined,Female,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,748.0,105.0,from CPCS,Dismissed,4.0,30.0,"State Prison,Probation",No,Yes,Yes
+109,Rebecca Becker,No,Yes,Unclear,White,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,820.0,700.0,from CPCS,Nolle Prosequi,7.0,33.0,Probation,No,Yes,Yes
+110,Kaitlin Flores,Yes,No,Unknown,Black,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,167.0,721.0,a court-appointed lawyer,Guilty verdict/finding,3.0,22.0,State Prison,Yes,No,No
+111,Zachary Mccall,No,No,Less,Other,District Court,Female,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,715.0,268.0,a court-appointed lawyer,Other,1.0,7.0,State Prison,No,Yes,No
+112,Rebecca Becker,Yes,Yes,Less,White,District Court,Male,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,447.0,572.0,a private attorney,Dismissed,3.0,0.0,State Prison,Yes,Yes,Yes
+113,Zachary Mccall,Yes,Yes,Unclear,Hispanic,Not yet determined,Male,1.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,534.0,596.0,a private attorney,267/87,5.0,43.0,Probation,Yes,No,No
+114,Kaitlin Flores,No,No,Unknown,Hispanic,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,621.0,294.0,from CPCS,Nolle Prosequi,9.0,21.0,House of Corrections,No,Yes,No
+115,Rebecca Becker,Yes,Yes,Less,Other,Not yet determined,Male,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,385.0,421.0,a court-appointed lawyer,Guilty verdict/finding,2.0,30.0,County/Split,No,Yes,Yes
+116,Roger Hensley,Yes,Yes,More,White,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,981.0,133.0,a court-appointed lawyer,Nolle Prosequi,0.0,48.0,County/Split,Yes,Yes,Yes
+117,Julia Obrien,No,Yes,Unclear,Unknown,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,388.0,492.0,unknown,Other,7.0,46.0,State Prison,No,Yes,Yes
+118,Roger Hensley,Yes,Yes,Less,Other,Not yet determined,Male,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,892.0,204.0,a private attorney,Nolle Prosequi,7.0,45.0,House of Corrections,Yes,No,Yes
+119,Gregory Wilkins,No,Yes,Less,White,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,235.0,308.0,a private attorney,267/87,1.0,23.0,House of Corrections,No,No,Yes
+120,Roger Hensley,No,Yes,Unclear,White,Superior Court,Female,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,233.0,336.0,from CPCS,Guilty verdict/finding,2.0,45.0,Probation,No,Yes,Yes
+121,Kaitlin Flores,Yes,No,More,Other,Superior Court,Female,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,845.0,612.0,unknown,Guilty verdict/finding,6.0,45.0,"State Prison,Probation",No,No,No
+122,Matthew Perez,No,Yes,Unclear,Other,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,398.0,290.0,a court-appointed lawyer,Guilty verdict/finding,5.0,27.0,County/Split,No,No,Yes
+123,Julia Obrien,No,No,Unclear,Other,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,544.0,684.0,unknown,Nolle Prosequi,8.0,12.0,"State Prison,Probation",Yes,No,No
+124,Kaitlin Flores,No,No,More,White,Not yet determined,Female,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,514.0,13.0,a court-appointed lawyer,Dismissed,8.0,2.0,"State Prison,Probation",No,No,No
+125,Gregory Wilkins,Yes,Yes,More,Other,District Court,Male,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,910.0,34.0,unknown,Nolle Prosequi,6.0,11.0,House of Corrections,Yes,Yes,Yes
+126,Zachary Mccall,No,No,Less,Other,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,739.0,90.0,a court-appointed lawyer,267/87,7.0,13.0,Probation,Yes,Yes,No
+127,Kaitlin Flores,Yes,Yes,Less,Hispanic,Superior Court,Female,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,455.0,347.0,a court-appointed lawyer,Other,1.0,45.0,Probation,Yes,Yes,Yes
+128,Rebecca Becker,Yes,No,Unknown,Black,Superior Court,Male,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,252.0,21.0,from CPCS,Other,5.0,9.0,House of Corrections,Yes,No,No
+129,Roger Hensley,No,Yes,More,Other,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,566.0,555.0,from CPCS,Other,2.0,12.0,Probation,No,Yes,Yes
+130,Rebecca Becker,Yes,No,Unknown,Black,Superior Court,Female,0.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,846.0,780.0,unknown,Guilty verdict/finding,5.0,19.0,County/Split,Yes,No,Yes
+131,Kaitlin Flores,No,Yes,Unknown,Other,Not yet determined,Male,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,906.0,100.0,unknown,267/87,0.0,47.0,County/Split,No,No,Yes
+132,Paul Russell,Yes,No,Unknown,Hispanic,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,191.0,781.0,from CPCS,Dismissed,10.0,7.0,"State Prison,Probation",No,No,Yes
+133,Julia Obrien,No,No,Unknown,Other,Not yet determined,Male,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,264.0,155.0,a private attorney,Dismissed,6.0,11.0,County/Split,No,Yes,Yes
+134,Julia Obrien,No,Yes,Unknown,Unknown,District Court,Female,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,404.0,335.0,unknown,Guilty verdict/finding,2.0,27.0,State Prison,Yes,Yes,No
+135,Matthew Perez,No,Yes,Less,White,District Court,Female,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,303.0,594.0,from CPCS,Continuance without a finding,7.0,12.0,Probation,No,Yes,No
+136,Gregory Wilkins,No,No,Less,Unknown,Superior Court,Male,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,343.0,244.0,from CPCS,Other,2.0,17.0,"State Prison,Probation",Yes,Yes,No
+137,Paul Russell,No,Yes,Less,Other,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,591.0,336.0,unknown,Continuance without a finding,9.0,40.0,County/Split,Yes,No,Yes
+138,Kaitlin Flores,Yes,No,Less,Black,Not yet determined,Female,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,496.0,161.0,unknown,Other,4.0,18.0,County/Split,No,No,Yes
+139,Paul Russell,Yes,Yes,More,Hispanic,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,398.0,600.0,unknown,Dismissed,8.0,6.0,"State Prison,Probation",Yes,Yes,No
+140,Kyle White,Yes,Yes,More,Black,District Court,Male,1.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,672.0,486.0,unknown,267/87,9.0,15.0,Probation,No,Yes,No
+141,Rebecca Becker,No,No,Unknown,Unknown,Not yet determined,Male,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,274.0,445.0,a court-appointed lawyer,Guilty verdict/finding,4.0,27.0,County/Split,No,Yes,Yes
+142,Paul Russell,No,Yes,Unclear,White,District Court,Female,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,517.0,232.0,unknown,267/87,2.0,36.0,"State Prison,Probation",Yes,Yes,Yes
+143,Gregory Wilkins,No,Yes,Less,Unknown,District Court,Male,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,435.0,29.0,a private attorney,Other,4.0,16.0,Probation,Yes,No,Yes
+144,Kyle White,Yes,Yes,Less,Black,Not yet determined,Male,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,154.0,125.0,from CPCS,Other,1.0,21.0,State Prison,Yes,Yes,Yes
+145,Julia Obrien,Yes,No,Unknown,Other,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,724.0,335.0,a private attorney,267/87,7.0,42.0,Probation,No,No,No
+146,Matthew Perez,Yes,No,Less,Unknown,District Court,Female,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,548.0,460.0,a private attorney,Guilty verdict/finding,9.0,18.0,State Prison,No,No,No
+147,Paul Russell,No,Yes,More,Hispanic,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,134.0,436.0,from CPCS,Other,9.0,6.0,County/Split,Yes,Yes,Yes
+148,Kaitlin Flores,Yes,No,Less,Unknown,Not yet determined,Female,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,950.0,15.0,from CPCS,Other,3.0,34.0,Probation,No,Yes,Yes
+149,Matthew Perez,Yes,Yes,More,Unknown,District Court,Male,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,477.0,409.0,a private attorney,Nolle Prosequi,8.0,45.0,"State Prison,Probation",No,No,Yes
+150,Paul Russell,No,Yes,Less,Black,District Court,Female,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,862.0,409.0,a private attorney,Nolle Prosequi,5.0,44.0,Probation,Yes,Yes,No
+151,Julia Obrien,No,No,More,Unknown,Superior Court,Male,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,481.0,464.0,a court-appointed lawyer,Other,6.0,32.0,State Prison,No,Yes,No
+152,Julia Obrien,No,Yes,Unclear,Other,Not yet determined,Female,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,193.0,55.0,a court-appointed lawyer,Nolle Prosequi,4.0,50.0,House of Corrections,No,Yes,Yes
+153,Paul Russell,Yes,No,Unknown,Black,Not yet determined,Male,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,625.0,680.0,a private attorney,267/87,5.0,21.0,County/Split,Yes,No,Yes
+154,Gregory Wilkins,No,Yes,Less,Black,Not yet determined,Female,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,779.0,482.0,from CPCS,Other,9.0,13.0,"State Prison,Probation",No,No,Yes
+155,Roger Hensley,Yes,Yes,Unclear,Hispanic,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,141.0,762.0,a court-appointed lawyer,Continuance without a finding,8.0,26.0,House of Corrections,No,Yes,Yes
+156,Paul Russell,No,Yes,More,Other,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,497.0,145.0,a private attorney,Nolle Prosequi,0.0,46.0,County/Split,Yes,Yes,No
+157,Zachary Mccall,Yes,Yes,Unknown,Unknown,Superior Court,Female,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,531.0,50.0,a private attorney,Other,5.0,21.0,Probation,Yes,No,Yes
+158,Rebecca Becker,Yes,No,More,Black,District Court,Female,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,721.0,488.0,unknown,Nolle Prosequi,4.0,8.0,"State Prison,Probation",Yes,Yes,Yes
+159,Matthew Perez,No,No,Less,Other,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,171.0,210.0,a private attorney,Guilty verdict/finding,6.0,22.0,State Prison,No,Yes,No
+160,Matthew Perez,No,Yes,Unclear,Other,Superior Court,Male,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,599.0,507.0,from CPCS,Other,1.0,2.0,"State Prison,Probation",No,No,No
+161,Roger Hensley,Yes,Yes,More,Unknown,Not yet determined,Male,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,504.0,639.0,from CPCS,Dismissed,2.0,14.0,County/Split,No,Yes,No
+162,Matthew Perez,No,Yes,Unknown,White,Not yet determined,Female,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,796.0,210.0,a private attorney,Other,9.0,18.0,County/Split,Yes,Yes,No
+163,Julia Obrien,Yes,Yes,Unclear,White,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,224.0,541.0,a court-appointed lawyer,Continuance without a finding,4.0,23.0,"State Prison,Probation",Yes,No,No
+164,Matthew Perez,No,No,Unclear,Black,Superior Court,Male,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,680.0,59.0,a court-appointed lawyer,Nolle Prosequi,1.0,48.0,County/Split,Yes,No,No
+165,Kaitlin Flores,No,No,More,White,District Court,Male,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,239.0,333.0,a court-appointed lawyer,Dismissed,6.0,7.0,State Prison,No,No,Yes
+166,Marie Green,No,No,Unknown,Other,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,376.0,767.0,a court-appointed lawyer,Dismissed,6.0,8.0,House of Corrections,No,No,No
+167,Rebecca Becker,Yes,No,Less,Black,Superior Court,Female,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,177.0,564.0,a private attorney,Guilty verdict/finding,8.0,41.0,Probation,No,No,Yes
+168,Rebecca Becker,Yes,No,Unknown,Unknown,District Court,Male,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,654.0,155.0,a court-appointed lawyer,267/87,4.0,44.0,County/Split,Yes,Yes,Yes
+169,Zachary Mccall,Yes,No,More,Unknown,District Court,Female,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,741.0,668.0,a court-appointed lawyer,Nolle Prosequi,1.0,1.0,County/Split,Yes,Yes,Yes
+170,Roger Hensley,No,Yes,Unknown,White,Not yet determined,Male,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,391.0,143.0,a court-appointed lawyer,Dismissed,9.0,20.0,County/Split,No,No,Yes
+171,Marie Green,Yes,Yes,Less,Hispanic,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,310.0,520.0,unknown,Dismissed,7.0,36.0,House of Corrections,No,No,No
+172,Kyle White,Yes,No,Unclear,Hispanic,Superior Court,Male,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,556.0,583.0,a court-appointed lawyer,Continuance without a finding,3.0,46.0,Probation,Yes,Yes,No
+173,Rebecca Becker,No,Yes,Unknown,Unknown,District Court,Female,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,149.0,593.0,from CPCS,267/87,1.0,28.0,House of Corrections,No,Yes,No
+174,Zachary Mccall,Yes,Yes,Unknown,Other,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,527.0,344.0,a court-appointed lawyer,Dismissed,9.0,46.0,"State Prison,Probation",Yes,No,No
+175,Paul Russell,Yes,No,Unknown,Unknown,District Court,Male,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,991.0,176.0,from CPCS,267/87,6.0,7.0,State Prison,No,No,Yes
+176,Rebecca Becker,No,Yes,More,Unknown,Superior Court,Male,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,752.0,182.0,unknown,Continuance without a finding,4.0,26.0,State Prison,Yes,Yes,Yes
+177,Marie Green,Yes,Yes,Unknown,Black,District Court,Female,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,219.0,265.0,from CPCS,Guilty verdict/finding,5.0,44.0,State Prison,Yes,Yes,Yes
+178,Kaitlin Flores,Yes,Yes,Less,Other,District Court,Female,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,226.0,741.0,unknown,Dismissed,4.0,17.0,Probation,No,No,Yes
+179,Kyle White,No,Yes,Unclear,Unknown,Not yet determined,Male,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,212.0,78.0,from CPCS,267/87,5.0,50.0,Probation,Yes,No,No
+180,Roger Hensley,No,No,Unclear,Hispanic,Not yet determined,Male,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,404.0,321.0,unknown,Continuance without a finding,0.0,10.0,County/Split,Yes,Yes,Yes
+181,Rebecca Becker,No,Yes,Unclear,Hispanic,District Court,Female,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,424.0,525.0,a court-appointed lawyer,Guilty verdict/finding,9.0,18.0,House of Corrections,No,No,Yes
+182,Paul Russell,Yes,No,Less,Hispanic,Not yet determined,Male,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,116.0,126.0,unknown,Dismissed,8.0,33.0,Probation,Yes,Yes,No
+183,Rebecca Becker,No,No,Unknown,Black,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,815.0,397.0,a private attorney,Guilty verdict/finding,0.0,32.0,County/Split,Yes,Yes,Yes
+184,Roger Hensley,No,No,Unknown,Other,Superior Court,Male,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,850.0,472.0,unknown,Nolle Prosequi,8.0,5.0,Probation,No,No,No
+185,Matthew Perez,Yes,Yes,Unknown,White,Not yet determined,Female,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,620.0,116.0,unknown,Continuance without a finding,4.0,2.0,County/Split,Yes,No,No
+186,Gregory Wilkins,No,No,More,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,348.0,471.0,from CPCS,Continuance without a finding,10.0,7.0,House of Corrections,Yes,No,No
+187,Gregory Wilkins,No,No,Less,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,906.0,636.0,from CPCS,267/87,0.0,20.0,State Prison,Yes,Yes,Yes
+188,Julia Obrien,No,No,Unknown,Other,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,582.0,373.0,a court-appointed lawyer,Continuance without a finding,8.0,11.0,House of Corrections,Yes,Yes,No
+189,Roger Hensley,No,Yes,Unclear,Unknown,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,545.0,497.0,a private attorney,Other,4.0,48.0,"State Prison,Probation",No,No,No
+190,Zachary Mccall,Yes,Yes,Unclear,Other,District Court,Female,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,174.0,270.0,unknown,Guilty verdict/finding,5.0,35.0,"State Prison,Probation",Yes,No,Yes
+191,Rebecca Becker,Yes,Yes,Less,Unknown,District Court,Male,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,168.0,235.0,from CPCS,Continuance without a finding,9.0,40.0,County/Split,No,Yes,No
+192,Gregory Wilkins,No,No,Unclear,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,131.0,40.0,a private attorney,Continuance without a finding,4.0,0.0,County/Split,No,Yes,Yes
+193,Kaitlin Flores,No,Yes,Unclear,Other,Not yet determined,Male,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,608.0,617.0,unknown,267/87,2.0,13.0,County/Split,Yes,Yes,No
+194,Kyle White,Yes,Yes,Unclear,White,Superior Court,Female,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,872.0,773.0,a private attorney,Continuance without a finding,10.0,4.0,County/Split,No,No,No
+195,Zachary Mccall,No,Yes,More,White,Not yet determined,Female,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,978.0,33.0,a court-appointed lawyer,Other,8.0,25.0,County/Split,No,No,Yes
+196,Rebecca Becker,No,Yes,Less,Black,District Court,Male,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,329.0,247.0,from CPCS,Other,4.0,30.0,County/Split,No,No,Yes
+197,Kyle White,No,No,Less,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,346.0,33.0,from CPCS,Guilty verdict/finding,8.0,7.0,County/Split,No,No,Yes
+198,Julia Obrien,Yes,No,Less,Unknown,Not yet determined,Male,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,376.0,665.0,a court-appointed lawyer,Nolle Prosequi,3.0,48.0,House of Corrections,No,No,Yes
+199,Marie Green,Yes,No,More,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,603.0,197.0,a private attorney,Continuance without a finding,7.0,48.0,"State Prison,Probation",No,Yes,Yes
+200,Kaitlin Flores,Yes,Yes,Less,Hispanic,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,471.0,349.0,a private attorney,Other,3.0,43.0,House of Corrections,Yes,No,Yes
+201,Rebecca Becker,Yes,No,Unknown,Hispanic,Superior Court,Male,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,224.0,594.0,a court-appointed lawyer,Dismissed,10.0,13.0,State Prison,Yes,No,No
+202,Marie Green,Yes,Yes,Unclear,Unknown,District Court,Female,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,728.0,504.0,a private attorney,Nolle Prosequi,9.0,1.0,State Prison,No,Yes,No
+203,Kyle White,Yes,No,Less,Other,Superior Court,Female,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,606.0,514.0,a private attorney,267/87,1.0,17.0,State Prison,No,No,No
+204,Gregory Wilkins,Yes,Yes,Less,Other,District Court,Male,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,165.0,229.0,from CPCS,Guilty verdict/finding,9.0,22.0,State Prison,No,Yes,No
+205,Kyle White,Yes,Yes,Unclear,Unknown,Not yet determined,Female,1.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,337.0,711.0,unknown,Nolle Prosequi,6.0,9.0,County/Split,No,Yes,Yes
+206,Gregory Wilkins,Yes,Yes,Unclear,White,Not yet determined,Female,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,788.0,118.0,unknown,Guilty verdict/finding,2.0,5.0,State Prison,No,No,Yes
+207,Gregory Wilkins,Yes,Yes,Unclear,Other,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,737.0,441.0,unknown,Nolle Prosequi,6.0,17.0,Probation,No,No,Yes
+208,Julia Obrien,Yes,No,Less,Hispanic,Superior Court,Male,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,193.0,386.0,unknown,Continuance without a finding,1.0,30.0,House of Corrections,Yes,Yes,No
+209,Paul Russell,Yes,Yes,More,Unknown,Superior Court,Male,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,885.0,18.0,a court-appointed lawyer,Dismissed,6.0,31.0,State Prison,Yes,No,No
+210,Roger Hensley,No,Yes,More,Black,District Court,Female,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,818.0,501.0,unknown,Dismissed,7.0,35.0,Probation,Yes,No,Yes
+211,Kyle White,No,No,Unknown,Black,Superior Court,Female,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,674.0,682.0,a court-appointed lawyer,Dismissed,6.0,33.0,"State Prison,Probation",No,No,Yes
+212,Roger Hensley,No,Yes,More,Hispanic,District Court,Male,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,369.0,571.0,a private attorney,Dismissed,2.0,47.0,State Prison,Yes,Yes,No
+213,Marie Green,Yes,Yes,Unclear,Other,Superior Court,Male,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,886.0,182.0,a private attorney,Other,7.0,35.0,House of Corrections,No,Yes,No
+214,Matthew Perez,Yes,No,Less,Black,Superior Court,Male,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,919.0,160.0,a private attorney,Guilty verdict/finding,1.0,16.0,Probation,Yes,Yes,Yes
+215,Marie Green,No,No,Unclear,Hispanic,Superior Court,Female,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,213.0,4.0,a private attorney,267/87,5.0,12.0,House of Corrections,Yes,No,No
+216,Kaitlin Flores,Yes,Yes,More,Unknown,Superior Court,Male,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,668.0,705.0,a court-appointed lawyer,Continuance without a finding,9.0,29.0,State Prison,No,No,Yes
+217,Kaitlin Flores,Yes,Yes,Unknown,White,Not yet determined,Male,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,619.0,533.0,unknown,Continuance without a finding,4.0,26.0,Probation,No,Yes,Yes
+218,Roger Hensley,No,No,Less,Black,District Court,Male,0.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,432.0,207.0,from CPCS,Guilty verdict/finding,8.0,43.0,"State Prison,Probation",No,No,Yes
+219,Matthew Perez,Yes,No,More,Hispanic,District Court,Male,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,257.0,758.0,a private attorney,Other,5.0,27.0,County/Split,No,Yes,Yes
+220,Kaitlin Flores,Yes,Yes,Unclear,Other,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,608.0,124.0,a court-appointed lawyer,Continuance without a finding,2.0,1.0,Probation,Yes,No,Yes
+221,Kyle White,Yes,Yes,More,Black,Superior Court,Female,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,185.0,568.0,unknown,Guilty verdict/finding,2.0,8.0,State Prison,No,Yes,Yes
+222,Matthew Perez,Yes,No,Unknown,Unknown,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,620.0,21.0,a court-appointed lawyer,Dismissed,0.0,26.0,County/Split,No,No,No
+223,Paul Russell,Yes,Yes,Unknown,Other,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,683.0,689.0,unknown,Other,1.0,37.0,County/Split,Yes,Yes,No
+224,Paul Russell,No,Yes,Unclear,Black,Superior Court,Female,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,718.0,74.0,a private attorney,Other,2.0,29.0,Probation,No,Yes,No
+225,Paul Russell,No,No,Unknown,Other,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,180.0,20.0,unknown,267/87,10.0,34.0,House of Corrections,Yes,Yes,No
+226,Zachary Mccall,No,Yes,Unclear,Other,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,440.0,363.0,a court-appointed lawyer,267/87,4.0,14.0,County/Split,No,No,Yes
+227,Rebecca Becker,Yes,No,More,Black,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,275.0,398.0,unknown,Other,10.0,22.0,County/Split,Yes,Yes,Yes
+228,Roger Hensley,Yes,No,Less,Black,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,785.0,547.0,unknown,Continuance without a finding,7.0,12.0,State Prison,No,Yes,No
+229,Rebecca Becker,Yes,Yes,Unclear,Hispanic,Superior Court,Male,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,594.0,651.0,a court-appointed lawyer,Dismissed,8.0,7.0,County/Split,Yes,No,No
+230,Marie Green,No,No,Unclear,Unknown,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,908.0,787.0,a private attorney,Other,8.0,27.0,State Prison,Yes,Yes,No
+231,Roger Hensley,No,Yes,More,Other,Superior Court,Female,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,441.0,611.0,from CPCS,Other,10.0,49.0,"State Prison,Probation",No,No,Yes
+232,Roger Hensley,No,Yes,Less,Hispanic,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,456.0,734.0,unknown,Guilty verdict/finding,1.0,36.0,"State Prison,Probation",Yes,No,Yes
+233,Julia Obrien,No,No,More,Unknown,Superior Court,Male,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,846.0,38.0,from CPCS,Dismissed,2.0,45.0,Probation,Yes,No,No
+234,Paul Russell,Yes,Yes,More,Other,District Court,Male,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,733.0,539.0,a private attorney,267/87,4.0,3.0,"State Prison,Probation",No,No,Yes
+235,Paul Russell,No,Yes,Unknown,Hispanic,Not yet determined,Female,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,398.0,138.0,a private attorney,Guilty verdict/finding,2.0,14.0,State Prison,Yes,Yes,No
+236,Roger Hensley,Yes,Yes,Less,Hispanic,Superior Court,Male,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,340.0,422.0,a private attorney,Guilty verdict/finding,9.0,15.0,County/Split,No,No,No
+237,Kyle White,No,No,Unclear,Hispanic,Not yet determined,Female,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,451.0,718.0,a private attorney,Dismissed,3.0,7.0,Probation,No,Yes,No
+238,Kyle White,No,No,Less,Other,Superior Court,Male,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,464.0,26.0,a private attorney,267/87,6.0,29.0,State Prison,Yes,Yes,No
+239,Marie Green,Yes,Yes,More,White,Not yet determined,Male,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,976.0,407.0,a private attorney,Dismissed,2.0,49.0,House of Corrections,No,Yes,Yes
+240,Paul Russell,No,Yes,Unknown,White,District Court,Female,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,840.0,744.0,a private attorney,Continuance without a finding,5.0,50.0,House of Corrections,Yes,No,Yes
+241,Zachary Mccall,Yes,No,Less,Other,District Court,Male,1.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,228.0,370.0,a court-appointed lawyer,Other,2.0,17.0,County/Split,Yes,Yes,Yes
+242,Matthew Perez,No,No,Unknown,Other,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,1000.0,655.0,a court-appointed lawyer,Nolle Prosequi,1.0,2.0,State Prison,Yes,No,No
+243,Marie Green,No,No,Unclear,Unknown,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,701.0,153.0,a private attorney,Continuance without a finding,5.0,17.0,"State Prison,Probation",No,No,Yes
+244,Julia Obrien,Yes,Yes,Less,Other,Not yet determined,Female,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,823.0,355.0,a private attorney,Dismissed,4.0,27.0,County/Split,Yes,Yes,Yes
+245,Matthew Perez,Yes,No,More,Other,Not yet determined,Female,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,778.0,180.0,a court-appointed lawyer,Other,9.0,44.0,County/Split,Yes,Yes,Yes
+246,Roger Hensley,Yes,No,Unclear,Unknown,Not yet determined,Female,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,211.0,725.0,from CPCS,Guilty verdict/finding,8.0,41.0,Probation,No,Yes,No
+247,Roger Hensley,No,Yes,Unclear,Hispanic,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,924.0,576.0,a private attorney,Guilty verdict/finding,8.0,21.0,Probation,No,No,Yes
+248,Matthew Perez,No,Yes,Unknown,Other,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,352.0,398.0,a private attorney,Guilty verdict/finding,2.0,6.0,House of Corrections,Yes,Yes,Yes
+249,Matthew Perez,Yes,Yes,Less,Hispanic,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,324.0,668.0,from CPCS,Dismissed,9.0,15.0,"State Prison,Probation",Yes,Yes,Yes
+250,Marie Green,Yes,No,Unclear,Other,Superior Court,Female,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,180.0,769.0,from CPCS,Continuance without a finding,8.0,20.0,House of Corrections,Yes,Yes,Yes
+251,Paul Russell,Yes,Yes,More,Hispanic,Not yet determined,Male,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,254.0,201.0,a private attorney,Continuance without a finding,6.0,13.0,"State Prison,Probation",Yes,No,No
+252,Zachary Mccall,No,No,Unknown,Hispanic,Not yet determined,Male,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,875.0,413.0,from CPCS,Guilty verdict/finding,0.0,39.0,House of Corrections,Yes,Yes,No
+253,Paul Russell,Yes,Yes,Unclear,Other,Not yet determined,Female,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,671.0,533.0,a private attorney,Continuance without a finding,2.0,31.0,County/Split,No,No,Yes
+254,Julia Obrien,No,No,Unknown,Unknown,Superior Court,Male,0.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,570.0,168.0,from CPCS,Other,8.0,23.0,"State Prison,Probation",Yes,Yes,Yes
+255,Kyle White,No,No,More,White,Not yet determined,Female,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,441.0,544.0,a court-appointed lawyer,Continuance without a finding,8.0,6.0,House of Corrections,Yes,No,Yes
+256,Rebecca Becker,Yes,Yes,Unknown,Unknown,Not yet determined,Female,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,845.0,643.0,unknown,Other,1.0,3.0,Probation,Yes,No,No
+257,Rebecca Becker,No,Yes,Unknown,White,Superior Court,Female,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,599.0,556.0,a private attorney,Dismissed,8.0,5.0,State Prison,Yes,No,Yes
+258,Kaitlin Flores,Yes,No,More,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,268.0,18.0,from CPCS,Other,10.0,14.0,Probation,No,No,No
+259,Julia Obrien,No,Yes,Unknown,Other,District Court,Male,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,220.0,523.0,a court-appointed lawyer,267/87,7.0,4.0,Probation,Yes,Yes,Yes
+260,Rebecca Becker,Yes,Yes,Unknown,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,821.0,504.0,a private attorney,Other,7.0,28.0,State Prison,Yes,No,Yes
+261,Paul Russell,No,No,Unknown,Other,Not yet determined,Female,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,206.0,521.0,a court-appointed lawyer,Continuance without a finding,9.0,18.0,State Prison,Yes,Yes,No
+262,Julia Obrien,No,No,More,Hispanic,Superior Court,Male,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,497.0,700.0,a private attorney,Guilty verdict/finding,2.0,18.0,"State Prison,Probation",No,No,Yes
+263,Rebecca Becker,No,No,Unknown,White,District Court,Female,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,982.0,671.0,unknown,Continuance without a finding,4.0,42.0,County/Split,Yes,Yes,Yes
+264,Roger Hensley,No,Yes,Unknown,Unknown,Superior Court,Male,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,363.0,298.0,unknown,Guilty verdict/finding,1.0,25.0,House of Corrections,No,No,Yes
+265,Paul Russell,Yes,No,Less,White,Not yet determined,Female,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,170.0,581.0,from CPCS,Guilty verdict/finding,3.0,39.0,County/Split,Yes,No,Yes
+266,Gregory Wilkins,No,No,Unclear,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,845.0,482.0,from CPCS,Other,8.0,2.0,"State Prison,Probation",Yes,No,No
+267,Roger Hensley,No,Yes,Unknown,Black,Not yet determined,Male,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,797.0,713.0,a private attorney,Dismissed,1.0,39.0,State Prison,No,No,Yes
+268,Roger Hensley,Yes,Yes,More,Other,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,419.0,800.0,a court-appointed lawyer,Guilty verdict/finding,8.0,47.0,State Prison,No,Yes,No
+269,Zachary Mccall,Yes,No,Unclear,White,Not yet determined,Male,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,511.0,642.0,from CPCS,Continuance without a finding,5.0,2.0,State Prison,No,No,Yes
+270,Marie Green,Yes,Yes,Unknown,Black,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,180.0,11.0,unknown,Guilty verdict/finding,6.0,11.0,County/Split,Yes,Yes,No
+271,Matthew Perez,No,Yes,Unclear,White,District Court,Male,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,939.0,732.0,a court-appointed lawyer,Guilty verdict/finding,4.0,25.0,County/Split,Yes,No,No
+272,Rebecca Becker,No,No,Unknown,Other,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,482.0,612.0,unknown,Continuance without a finding,5.0,38.0,House of Corrections,Yes,Yes,Yes
+273,Marie Green,No,Yes,Less,Hispanic,Superior Court,Female,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,546.0,701.0,from CPCS,267/87,3.0,2.0,House of Corrections,No,No,Yes
+274,Julia Obrien,Yes,No,Unclear,Hispanic,Not yet determined,Female,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,442.0,297.0,unknown,267/87,3.0,27.0,Probation,No,Yes,Yes
+275,Marie Green,No,No,More,Unknown,District Court,Male,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,138.0,320.0,unknown,267/87,3.0,17.0,"State Prison,Probation",Yes,No,Yes
+276,Roger Hensley,Yes,Yes,Unclear,Unknown,Superior Court,Male,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,436.0,23.0,a private attorney,Dismissed,2.0,23.0,House of Corrections,Yes,No,No
+277,Rebecca Becker,No,No,Unclear,Hispanic,Not yet determined,Female,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,761.0,711.0,a private attorney,Dismissed,9.0,46.0,Probation,No,No,No
+278,Marie Green,No,Yes,More,White,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,687.0,422.0,from CPCS,Continuance without a finding,7.0,13.0,Probation,Yes,Yes,No
+279,Zachary Mccall,No,Yes,More,Black,Superior Court,Female,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,376.0,571.0,a private attorney,Guilty verdict/finding,9.0,49.0,State Prison,No,No,No
+280,Matthew Perez,No,Yes,More,Hispanic,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,960.0,181.0,a private attorney,Other,5.0,9.0,Probation,No,No,No
+281,Roger Hensley,No,No,Less,Black,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,961.0,369.0,a private attorney,267/87,7.0,29.0,Probation,Yes,No,No
+282,Zachary Mccall,No,Yes,Unclear,Hispanic,Not yet determined,Male,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,637.0,541.0,from CPCS,Continuance without a finding,3.0,40.0,State Prison,No,Yes,Yes
+283,Julia Obrien,No,No,Unclear,Other,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,593.0,718.0,a private attorney,Other,1.0,3.0,House of Corrections,Yes,No,Yes
+284,Matthew Perez,Yes,No,More,Unknown,Not yet determined,Female,1.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,314.0,364.0,a court-appointed lawyer,Other,2.0,14.0,County/Split,No,No,Yes
+285,Rebecca Becker,No,Yes,More,Hispanic,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,116.0,602.0,a court-appointed lawyer,Guilty verdict/finding,7.0,26.0,State Prison,Yes,No,Yes
+286,Matthew Perez,Yes,No,Less,White,Not yet determined,Male,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,566.0,776.0,a court-appointed lawyer,Nolle Prosequi,4.0,19.0,House of Corrections,Yes,Yes,No
+287,Kaitlin Flores,No,No,Less,White,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,922.0,383.0,unknown,Continuance without a finding,6.0,40.0,"State Prison,Probation",No,No,Yes
+288,Kyle White,Yes,Yes,Unclear,White,District Court,Male,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,911.0,455.0,a private attorney,Other,6.0,29.0,House of Corrections,Yes,Yes,Yes
+289,Marie Green,Yes,No,Unknown,Black,Superior Court,Female,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,254.0,14.0,unknown,267/87,9.0,16.0,House of Corrections,No,No,Yes
+290,Zachary Mccall,No,No,Less,Unknown,Superior Court,Female,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,590.0,244.0,unknown,267/87,3.0,24.0,Probation,No,No,Yes
+291,Kaitlin Flores,Yes,Yes,Unknown,Hispanic,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,701.0,25.0,a private attorney,267/87,3.0,7.0,"State Prison,Probation",No,Yes,No
+292,Zachary Mccall,Yes,Yes,Less,Black,Not yet determined,Male,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,693.0,179.0,a court-appointed lawyer,Other,3.0,26.0,House of Corrections,Yes,No,Yes
+293,Kaitlin Flores,No,Yes,Unknown,Black,District Court,Male,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,556.0,9.0,a private attorney,Dismissed,1.0,1.0,State Prison,No,No,No
+294,Paul Russell,Yes,No,Unclear,Hispanic,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,463.0,644.0,from CPCS,Nolle Prosequi,10.0,48.0,County/Split,No,Yes,Yes
+295,Roger Hensley,Yes,Yes,Unknown,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,990.0,198.0,a private attorney,Dismissed,5.0,0.0,County/Split,No,No,Yes
+296,Zachary Mccall,No,Yes,Unclear,Hispanic,Superior Court,Male,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,802.0,348.0,a private attorney,Other,8.0,31.0,State Prison,Yes,No,Yes
+297,Roger Hensley,Yes,No,Unclear,Other,Superior Court,Female,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,268.0,696.0,a court-appointed lawyer,Nolle Prosequi,9.0,18.0,"State Prison,Probation",Yes,No,No
+298,Matthew Perez,No,Yes,More,Other,Superior Court,Female,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,300.0,105.0,unknown,Dismissed,5.0,49.0,State Prison,Yes,No,Yes
+299,Kaitlin Flores,Yes,No,Unclear,White,District Court,Female,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,961.0,162.0,a court-appointed lawyer,Other,6.0,38.0,County/Split,Yes,No,Yes
+300,Paul Russell,Yes,Yes,Less,Hispanic,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,570.0,604.0,a private attorney,Nolle Prosequi,7.0,16.0,Probation,No,Yes,Yes
+301,Rebecca Becker,No,No,Less,Unknown,District Court,Female,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,641.0,119.0,a court-appointed lawyer,267/87,7.0,1.0,County/Split,No,No,Yes
+302,Kyle White,Yes,Yes,Less,Other,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,196.0,404.0,unknown,Dismissed,1.0,7.0,County/Split,Yes,No,No
+303,Julia Obrien,Yes,No,Less,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,700.0,18.0,unknown,Continuance without a finding,3.0,23.0,Probation,No,Yes,Yes
+304,Marie Green,Yes,Yes,Less,Unknown,Superior Court,Female,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,256.0,28.0,unknown,Nolle Prosequi,2.0,6.0,Probation,No,Yes,No
+305,Matthew Perez,Yes,Yes,More,Other,District Court,Male,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,962.0,800.0,unknown,Nolle Prosequi,9.0,37.0,"State Prison,Probation",Yes,No,Yes
+306,Kyle White,No,Yes,Less,Black,Superior Court,Male,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,962.0,607.0,a court-appointed lawyer,Nolle Prosequi,9.0,27.0,County/Split,Yes,No,No
+307,Kyle White,Yes,No,Less,Unknown,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,459.0,557.0,from CPCS,Nolle Prosequi,4.0,48.0,"State Prison,Probation",No,Yes,Yes
+308,Julia Obrien,No,Yes,Unclear,Unknown,District Court,Female,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,625.0,796.0,a court-appointed lawyer,Guilty verdict/finding,1.0,8.0,State Prison,Yes,No,No
+309,Matthew Perez,No,Yes,Less,Black,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,429.0,709.0,a court-appointed lawyer,Other,7.0,14.0,House of Corrections,Yes,Yes,No
+310,Kaitlin Flores,No,Yes,Unclear,Hispanic,District Court,Female,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,484.0,501.0,from CPCS,Other,8.0,17.0,House of Corrections,Yes,No,No
+311,Roger Hensley,Yes,No,More,Hispanic,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,441.0,92.0,unknown,267/87,7.0,25.0,State Prison,No,Yes,No
+312,Matthew Perez,No,Yes,Unclear,Hispanic,Not yet determined,Female,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,193.0,502.0,a court-appointed lawyer,Guilty verdict/finding,10.0,4.0,County/Split,Yes,Yes,No
+313,Paul Russell,Yes,No,More,Black,District Court,Female,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,461.0,182.0,from CPCS,Dismissed,1.0,25.0,"State Prison,Probation",Yes,No,Yes
+314,Marie Green,Yes,No,Unknown,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,125.0,705.0,from CPCS,Continuance without a finding,5.0,3.0,State Prison,No,Yes,Yes
+315,Matthew Perez,No,Yes,Less,Unknown,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,159.0,576.0,a private attorney,Guilty verdict/finding,5.0,33.0,County/Split,No,Yes,No
+316,Zachary Mccall,No,No,Less,Black,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,355.0,644.0,a private attorney,Guilty verdict/finding,0.0,18.0,House of Corrections,Yes,Yes,Yes
+317,Kyle White,Yes,No,More,Black,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,199.0,436.0,unknown,267/87,5.0,9.0,State Prison,No,Yes,Yes
+318,Gregory Wilkins,Yes,No,More,Black,Not yet determined,Female,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,128.0,59.0,from CPCS,267/87,10.0,40.0,State Prison,No,No,No
+319,Kyle White,Yes,Yes,Unclear,Hispanic,Not yet determined,Female,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,102.0,152.0,a private attorney,267/87,8.0,1.0,"State Prison,Probation",Yes,Yes,No
+320,Gregory Wilkins,No,Yes,Unclear,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,106.0,742.0,a court-appointed lawyer,Dismissed,0.0,50.0,State Prison,Yes,Yes,No
+321,Kaitlin Flores,No,Yes,More,Unknown,Not yet determined,Female,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,922.0,589.0,unknown,Guilty verdict/finding,0.0,10.0,State Prison,No,No,No
+322,Roger Hensley,Yes,No,Less,Black,Not yet determined,Female,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,815.0,575.0,a court-appointed lawyer,Continuance without a finding,0.0,23.0,House of Corrections,Yes,Yes,No
+323,Rebecca Becker,No,Yes,Less,Unknown,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,467.0,650.0,a court-appointed lawyer,Other,8.0,32.0,House of Corrections,Yes,No,No
+324,Kaitlin Flores,Yes,No,Less,Hispanic,Superior Court,Male,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,390.0,796.0,a private attorney,Continuance without a finding,10.0,35.0,County/Split,Yes,No,Yes
+325,Kyle White,No,Yes,Less,White,District Court,Male,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,555.0,251.0,unknown,267/87,6.0,22.0,State Prison,Yes,Yes,Yes
+326,Matthew Perez,Yes,No,Unknown,Black,District Court,Female,0.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,892.0,171.0,a private attorney,267/87,4.0,4.0,State Prison,No,No,No
+327,Zachary Mccall,Yes,Yes,Unclear,White,Superior Court,Female,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,285.0,744.0,a private attorney,Continuance without a finding,5.0,49.0,Probation,No,Yes,No
+328,Julia Obrien,Yes,No,More,White,Superior Court,Female,1.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,733.0,196.0,a private attorney,267/87,0.0,3.0,County/Split,No,Yes,Yes
+329,Rebecca Becker,No,No,Unknown,Hispanic,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,759.0,11.0,from CPCS,Continuance without a finding,7.0,3.0,County/Split,No,No,No
+330,Zachary Mccall,Yes,No,Unclear,Hispanic,District Court,Female,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,980.0,567.0,unknown,Other,6.0,33.0,House of Corrections,Yes,Yes,No
+331,Matthew Perez,No,Yes,Less,Other,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,699.0,308.0,from CPCS,Dismissed,1.0,48.0,County/Split,No,No,Yes
+332,Paul Russell,Yes,No,Less,Unknown,Not yet determined,Male,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,738.0,630.0,a private attorney,Dismissed,3.0,13.0,County/Split,No,No,Yes
+333,Gregory Wilkins,No,Yes,Unclear,Hispanic,Not yet determined,Male,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,801.0,108.0,from CPCS,Guilty verdict/finding,7.0,9.0,Probation,Yes,Yes,No
+334,Zachary Mccall,Yes,No,More,Hispanic,Superior Court,Female,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,980.0,751.0,a private attorney,267/87,3.0,14.0,"State Prison,Probation",No,Yes,No
+335,Kyle White,Yes,Yes,Unknown,Other,Superior Court,Female,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,386.0,399.0,a private attorney,Dismissed,7.0,50.0,House of Corrections,No,No,Yes
+336,Matthew Perez,Yes,No,Unclear,Unknown,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,411.0,8.0,unknown,Nolle Prosequi,4.0,19.0,House of Corrections,Yes,Yes,No
+337,Zachary Mccall,No,No,More,Hispanic,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,447.0,274.0,from CPCS,Guilty verdict/finding,0.0,12.0,House of Corrections,Yes,No,No
+338,Julia Obrien,No,No,Unknown,White,District Court,Female,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,214.0,309.0,a court-appointed lawyer,Guilty verdict/finding,4.0,18.0,"State Prison,Probation",Yes,Yes,No
+339,Julia Obrien,Yes,No,Unclear,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,678.0,623.0,a court-appointed lawyer,Nolle Prosequi,5.0,18.0,House of Corrections,Yes,No,Yes
+340,Marie Green,Yes,Yes,Unclear,Other,District Court,Male,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,348.0,129.0,a private attorney,Nolle Prosequi,8.0,3.0,"State Prison,Probation",Yes,Yes,Yes
+341,Kaitlin Flores,No,Yes,More,Hispanic,District Court,Female,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,421.0,605.0,unknown,Dismissed,10.0,1.0,House of Corrections,Yes,No,Yes
+342,Roger Hensley,No,Yes,More,Black,District Court,Female,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,693.0,692.0,unknown,267/87,3.0,34.0,House of Corrections,No,Yes,No
+343,Zachary Mccall,No,Yes,More,Unknown,Superior Court,Male,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,950.0,8.0,a private attorney,Dismissed,9.0,48.0,County/Split,Yes,Yes,No
+344,Roger Hensley,Yes,Yes,Less,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,862.0,189.0,unknown,Other,10.0,7.0,"State Prison,Probation",No,Yes,Yes
+345,Rebecca Becker,No,No,Less,Black,District Court,Male,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,317.0,523.0,unknown,Nolle Prosequi,8.0,32.0,State Prison,No,Yes,No
+346,Roger Hensley,Yes,No,Unknown,White,Superior Court,Female,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,967.0,175.0,a private attorney,Nolle Prosequi,9.0,48.0,Probation,Yes,No,Yes
+347,Zachary Mccall,No,No,Less,White,Not yet determined,Female,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,561.0,111.0,a private attorney,267/87,8.0,8.0,"State Prison,Probation",No,Yes,Yes
+348,Kaitlin Flores,Yes,Yes,More,Other,District Court,Female,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,906.0,578.0,a private attorney,267/87,10.0,0.0,"State Prison,Probation",Yes,Yes,No
+349,Matthew Perez,No,No,Unknown,Unknown,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,458.0,609.0,unknown,Guilty verdict/finding,10.0,20.0,Probation,Yes,No,No
+350,Marie Green,No,Yes,More,Other,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,278.0,769.0,unknown,Dismissed,9.0,45.0,Probation,No,No,Yes
+351,Gregory Wilkins,No,Yes,Unknown,Unknown,Not yet determined,Female,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,431.0,608.0,a private attorney,Nolle Prosequi,1.0,2.0,State Prison,Yes,No,No
+352,Kaitlin Flores,No,Yes,Unclear,Unknown,Not yet determined,Male,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,957.0,144.0,unknown,Guilty verdict/finding,9.0,18.0,"State Prison,Probation",Yes,Yes,Yes
+353,Rebecca Becker,No,Yes,Less,White,District Court,Male,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,305.0,557.0,a court-appointed lawyer,Guilty verdict/finding,5.0,17.0,"State Prison,Probation",Yes,No,Yes
+354,Roger Hensley,No,No,Less,Black,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,638.0,179.0,from CPCS,Guilty verdict/finding,7.0,8.0,"State Prison,Probation",No,No,Yes
+355,Kyle White,Yes,Yes,Unclear,Hispanic,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,293.0,383.0,unknown,Continuance without a finding,8.0,31.0,House of Corrections,No,No,Yes
+356,Rebecca Becker,No,No,Unclear,White,District Court,Female,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,227.0,152.0,a private attorney,Other,0.0,22.0,State Prison,No,Yes,No
+357,Roger Hensley,No,No,Less,Other,District Court,Female,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,599.0,680.0,from CPCS,Continuance without a finding,10.0,13.0,State Prison,Yes,Yes,No
+358,Paul Russell,No,Yes,More,Hispanic,Not yet determined,Male,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,821.0,657.0,from CPCS,267/87,6.0,2.0,State Prison,No,Yes,Yes
+359,Zachary Mccall,No,No,Less,Unknown,District Court,Male,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,502.0,311.0,a court-appointed lawyer,Other,10.0,36.0,County/Split,No,Yes,Yes
+360,Roger Hensley,Yes,Yes,Unknown,Black,District Court,Female,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,428.0,106.0,unknown,Nolle Prosequi,7.0,46.0,"State Prison,Probation",Yes,Yes,Yes
+361,Kaitlin Flores,No,Yes,More,Hispanic,Superior Court,Female,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,727.0,137.0,from CPCS,Dismissed,1.0,13.0,State Prison,Yes,Yes,Yes
+362,Marie Green,Yes,No,Less,White,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,456.0,280.0,a private attorney,267/87,2.0,37.0,Probation,Yes,Yes,No
+363,Kyle White,Yes,No,Unclear,Black,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,125.0,291.0,a court-appointed lawyer,Continuance without a finding,6.0,14.0,"State Prison,Probation",Yes,Yes,No
+364,Zachary Mccall,No,Yes,Less,Unknown,District Court,Female,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,788.0,383.0,a private attorney,Other,4.0,27.0,State Prison,No,Yes,No
+365,Gregory Wilkins,No,No,Less,White,Superior Court,Male,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,136.0,6.0,unknown,Nolle Prosequi,5.0,11.0,House of Corrections,Yes,No,No
+366,Kaitlin Flores,Yes,Yes,More,Unknown,District Court,Male,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,253.0,451.0,a court-appointed lawyer,Other,2.0,34.0,House of Corrections,No,No,Yes
+367,Julia Obrien,Yes,No,More,Other,Not yet determined,Male,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1000.0,79.0,from CPCS,Guilty verdict/finding,7.0,23.0,"State Prison,Probation",Yes,Yes,Yes
+368,Rebecca Becker,No,Yes,Unclear,Hispanic,Not yet determined,Female,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,917.0,346.0,a private attorney,Guilty verdict/finding,9.0,27.0,House of Corrections,Yes,Yes,Yes
+369,Marie Green,Yes,No,Unclear,Other,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,339.0,408.0,a court-appointed lawyer,Continuance without a finding,1.0,36.0,Probation,No,No,Yes
+370,Gregory Wilkins,Yes,Yes,More,Other,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,967.0,58.0,a private attorney,Guilty verdict/finding,9.0,19.0,State Prison,No,Yes,No
+371,Rebecca Becker,No,No,More,White,Not yet determined,Male,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,846.0,365.0,unknown,Guilty verdict/finding,10.0,28.0,Probation,No,No,Yes
+372,Kyle White,No,Yes,Unclear,Black,Not yet determined,Male,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,245.0,735.0,from CPCS,Guilty verdict/finding,4.0,6.0,Probation,No,Yes,No
+373,Paul Russell,No,No,More,Other,District Court,Female,1.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,971.0,25.0,from CPCS,Other,0.0,34.0,State Prison,Yes,No,No
+374,Gregory Wilkins,Yes,No,Unknown,Hispanic,District Court,Male,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,511.0,543.0,from CPCS,Continuance without a finding,9.0,37.0,State Prison,Yes,Yes,Yes
+375,Kyle White,No,No,More,Hispanic,District Court,Male,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,901.0,313.0,from CPCS,Other,4.0,26.0,"State Prison,Probation",Yes,No,No
+376,Kyle White,Yes,Yes,More,Black,Superior Court,Female,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,499.0,762.0,a court-appointed lawyer,267/87,10.0,44.0,County/Split,No,No,No
+377,Paul Russell,No,No,More,White,District Court,Male,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,679.0,271.0,unknown,Guilty verdict/finding,3.0,35.0,County/Split,Yes,No,Yes
+378,Kaitlin Flores,No,Yes,Unclear,Black,Not yet determined,Female,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,633.0,403.0,a private attorney,267/87,6.0,45.0,"State Prison,Probation",Yes,No,Yes
+379,Matthew Perez,Yes,Yes,Unknown,Other,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,883.0,772.0,a private attorney,Dismissed,4.0,13.0,Probation,No,No,No
+380,Rebecca Becker,No,Yes,Unclear,Hispanic,Not yet determined,Male,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,302.0,22.0,a private attorney,267/87,6.0,10.0,County/Split,No,No,No
+381,Gregory Wilkins,Yes,Yes,Less,Unknown,District Court,Female,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,926.0,229.0,unknown,Guilty verdict/finding,4.0,14.0,Probation,No,No,No
+382,Marie Green,No,No,Unclear,Black,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,436.0,24.0,unknown,Guilty verdict/finding,6.0,23.0,State Prison,No,No,Yes
+383,Rebecca Becker,Yes,Yes,Less,Other,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,873.0,246.0,a court-appointed lawyer,Nolle Prosequi,4.0,9.0,State Prison,No,Yes,Yes
+384,Gregory Wilkins,Yes,Yes,Less,White,District Court,Female,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,572.0,440.0,a court-appointed lawyer,Guilty verdict/finding,9.0,23.0,State Prison,No,Yes,No
+385,Roger Hensley,Yes,No,Unknown,Black,Not yet determined,Male,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,354.0,125.0,a private attorney,Other,4.0,29.0,House of Corrections,No,Yes,No
+386,Rebecca Becker,No,Yes,Unclear,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,579.0,591.0,from CPCS,267/87,8.0,23.0,Probation,No,Yes,Yes
+387,Zachary Mccall,Yes,Yes,Unknown,Unknown,Not yet determined,Male,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,464.0,401.0,from CPCS,Other,7.0,26.0,County/Split,No,No,Yes
+388,Marie Green,No,No,Unknown,Black,District Court,Female,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,966.0,731.0,a court-appointed lawyer,Other,3.0,17.0,State Prison,Yes,No,Yes
+389,Gregory Wilkins,No,No,More,White,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,446.0,375.0,unknown,Continuance without a finding,2.0,46.0,State Prison,Yes,No,Yes
+390,Rebecca Becker,No,Yes,More,Black,Superior Court,Male,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,550.0,250.0,a court-appointed lawyer,Other,1.0,8.0,Probation,Yes,Yes,No
+391,Paul Russell,Yes,No,Unknown,Hispanic,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,903.0,385.0,a private attorney,Guilty verdict/finding,6.0,39.0,"State Prison,Probation",Yes,Yes,Yes
+392,Matthew Perez,No,Yes,More,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,216.0,769.0,a court-appointed lawyer,Other,8.0,37.0,Probation,No,Yes,Yes
+393,Gregory Wilkins,No,No,Unclear,Unknown,District Court,Female,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,915.0,458.0,unknown,Dismissed,3.0,42.0,State Prison,No,Yes,Yes
+394,Matthew Perez,Yes,No,Unclear,Other,District Court,Male,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,679.0,10.0,unknown,Dismissed,6.0,2.0,House of Corrections,No,No,Yes
+395,Kyle White,Yes,No,Less,Unknown,District Court,Male,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,661.0,448.0,from CPCS,Guilty verdict/finding,10.0,7.0,"State Prison,Probation",No,No,Yes
+396,Kaitlin Flores,No,Yes,Less,Black,Not yet determined,Female,1.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,968.0,771.0,a court-appointed lawyer,Dismissed,10.0,24.0,State Prison,No,No,No
+397,Julia Obrien,Yes,Yes,More,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,626.0,344.0,a private attorney,Dismissed,6.0,12.0,State Prison,No,Yes,No
+398,Gregory Wilkins,No,Yes,Unclear,Other,Not yet determined,Male,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,957.0,92.0,unknown,Guilty verdict/finding,8.0,1.0,"State Prison,Probation",No,No,Yes
+399,Roger Hensley,Yes,No,More,Unknown,Not yet determined,Male,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,292.0,376.0,unknown,267/87,8.0,38.0,County/Split,No,Yes,No
+400,Julia Obrien,Yes,No,Less,Hispanic,Superior Court,Male,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,259.0,344.0,unknown,Continuance without a finding,3.0,33.0,County/Split,No,No,Yes
+401,Gregory Wilkins,No,No,Less,Other,Not yet determined,Male,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,217.0,61.0,a private attorney,Guilty verdict/finding,5.0,12.0,House of Corrections,No,No,No
+402,Marie Green,No,Yes,Less,Other,District Court,Female,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,983.0,623.0,from CPCS,267/87,4.0,45.0,"State Prison,Probation",No,Yes,Yes
+403,Marie Green,Yes,No,Unclear,White,District Court,Female,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,234.0,609.0,unknown,267/87,3.0,40.0,House of Corrections,Yes,Yes,No
+404,Roger Hensley,No,No,More,Black,Not yet determined,Female,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,142.0,756.0,unknown,Continuance without a finding,1.0,21.0,Probation,Yes,Yes,No
+405,Kyle White,Yes,No,Less,Black,Superior Court,Male,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,391.0,785.0,a court-appointed lawyer,Other,1.0,3.0,Probation,No,No,Yes
+406,Paul Russell,Yes,Yes,Unclear,Other,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,398.0,40.0,a court-appointed lawyer,Continuance without a finding,1.0,30.0,State Prison,Yes,Yes,No
+407,Paul Russell,No,Yes,Unknown,Black,District Court,Female,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,740.0,78.0,unknown,Other,5.0,50.0,Probation,Yes,No,Yes
+408,Matthew Perez,No,Yes,Unknown,Unknown,District Court,Female,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,542.0,306.0,unknown,Nolle Prosequi,1.0,36.0,State Prison,No,No,Yes
+409,Zachary Mccall,Yes,No,Unclear,Other,Superior Court,Female,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,366.0,210.0,a private attorney,Continuance without a finding,7.0,43.0,County/Split,No,No,Yes
+410,Gregory Wilkins,No,Yes,Less,White,Not yet determined,Male,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,794.0,655.0,a court-appointed lawyer,Guilty verdict/finding,6.0,23.0,"State Prison,Probation",No,No,No
+411,Kyle White,No,No,More,Unknown,Superior Court,Male,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,382.0,270.0,a private attorney,Continuance without a finding,6.0,28.0,Probation,No,No,Yes
+412,Gregory Wilkins,No,No,Unclear,Hispanic,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,318.0,301.0,a private attorney,Other,10.0,37.0,County/Split,Yes,No,Yes
+413,Roger Hensley,Yes,Yes,Unknown,Black,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,488.0,268.0,a private attorney,267/87,7.0,46.0,"State Prison,Probation",Yes,Yes,No
+414,Marie Green,Yes,No,Unclear,Hispanic,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,589.0,489.0,a court-appointed lawyer,Continuance without a finding,9.0,4.0,Probation,No,Yes,Yes
+415,Kaitlin Flores,No,No,Unknown,Other,District Court,Female,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,443.0,41.0,a court-appointed lawyer,267/87,2.0,2.0,"State Prison,Probation",Yes,Yes,Yes
+416,Kyle White,Yes,No,Unclear,White,Superior Court,Male,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,440.0,305.0,unknown,Guilty verdict/finding,2.0,24.0,House of Corrections,No,Yes,No
+417,Kyle White,Yes,Yes,More,Black,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,420.0,731.0,unknown,Dismissed,1.0,0.0,State Prison,Yes,Yes,Yes
+418,Gregory Wilkins,No,No,Less,Hispanic,Not yet determined,Male,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,950.0,603.0,a court-appointed lawyer,Continuance without a finding,10.0,44.0,Probation,Yes,Yes,Yes
+419,Matthew Perez,No,No,Less,Unknown,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,905.0,478.0,a private attorney,Nolle Prosequi,0.0,5.0,House of Corrections,No,No,No
+420,Kaitlin Flores,Yes,Yes,Unclear,Other,Not yet determined,Male,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,409.0,21.0,a court-appointed lawyer,Continuance without a finding,7.0,47.0,County/Split,Yes,No,Yes
+421,Paul Russell,Yes,Yes,Less,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,797.0,391.0,a private attorney,Nolle Prosequi,4.0,21.0,State Prison,No,No,No
+422,Julia Obrien,Yes,No,Unclear,Unknown,District Court,Male,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,409.0,148.0,a private attorney,Nolle Prosequi,6.0,25.0,County/Split,No,No,Yes
+423,Kaitlin Flores,No,No,More,White,Not yet determined,Male,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,118.0,570.0,a private attorney,Continuance without a finding,10.0,46.0,"State Prison,Probation",Yes,No,No
+424,Marie Green,No,Yes,Unclear,White,District Court,Male,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,818.0,245.0,a private attorney,267/87,2.0,35.0,Probation,No,Yes,No
+425,Matthew Perez,No,No,Unknown,Other,District Court,Male,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,185.0,705.0,a private attorney,Guilty verdict/finding,6.0,26.0,"State Prison,Probation",Yes,Yes,Yes
+426,Gregory Wilkins,No,No,Unclear,Black,District Court,Male,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,277.0,262.0,a court-appointed lawyer,267/87,6.0,28.0,"State Prison,Probation",No,No,No
+427,Zachary Mccall,Yes,Yes,More,Other,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,836.0,342.0,a court-appointed lawyer,267/87,3.0,35.0,State Prison,No,No,No
+428,Paul Russell,Yes,No,Unclear,Black,Not yet determined,Female,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,686.0,9.0,a private attorney,Dismissed,1.0,18.0,County/Split,Yes,No,No
+429,Julia Obrien,No,Yes,Less,Black,Not yet determined,Female,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,673.0,675.0,from CPCS,Continuance without a finding,1.0,43.0,Probation,Yes,No,No
+430,Zachary Mccall,No,Yes,Unknown,Hispanic,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,683.0,171.0,unknown,Continuance without a finding,1.0,46.0,County/Split,Yes,Yes,Yes
+431,Paul Russell,Yes,Yes,Unclear,White,District Court,Male,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,649.0,410.0,a court-appointed lawyer,Nolle Prosequi,6.0,14.0,House of Corrections,Yes,No,Yes
+432,Roger Hensley,Yes,Yes,Less,Hispanic,District Court,Male,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,344.0,774.0,from CPCS,Continuance without a finding,6.0,42.0,"State Prison,Probation",Yes,Yes,No
+433,Julia Obrien,No,Yes,Unclear,Other,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,736.0,603.0,from CPCS,Guilty verdict/finding,7.0,27.0,State Prison,No,Yes,Yes
+434,Matthew Perez,Yes,Yes,Unknown,Other,Superior Court,Female,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,547.0,367.0,unknown,Other,3.0,6.0,County/Split,Yes,Yes,No
+435,Paul Russell,Yes,Yes,Unknown,Unknown,Not yet determined,Male,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,398.0,103.0,a private attorney,Guilty verdict/finding,4.0,47.0,State Prison,Yes,Yes,Yes
+436,Gregory Wilkins,No,No,Less,Unknown,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,441.0,559.0,a private attorney,Continuance without a finding,2.0,32.0,County/Split,Yes,Yes,Yes
+437,Matthew Perez,Yes,No,Less,Other,Superior Court,Male,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,671.0,351.0,a private attorney,Nolle Prosequi,7.0,30.0,State Prison,Yes,No,No
+438,Zachary Mccall,No,Yes,Unclear,Black,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,677.0,331.0,from CPCS,Nolle Prosequi,1.0,48.0,Probation,Yes,No,No
+439,Marie Green,Yes,Yes,More,White,Superior Court,Male,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,607.0,689.0,unknown,Dismissed,7.0,18.0,Probation,No,Yes,No
+440,Matthew Perez,No,Yes,Less,Black,District Court,Female,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,408.0,182.0,a court-appointed lawyer,Guilty verdict/finding,1.0,8.0,Probation,No,No,Yes
+441,Julia Obrien,Yes,Yes,Unclear,Other,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,399.0,700.0,a private attorney,267/87,6.0,43.0,House of Corrections,Yes,No,No
+442,Matthew Perez,Yes,No,Unclear,White,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,332.0,514.0,a private attorney,Dismissed,4.0,24.0,Probation,No,No,Yes
+443,Paul Russell,No,Yes,More,Black,Not yet determined,Female,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,912.0,785.0,a court-appointed lawyer,Guilty verdict/finding,3.0,34.0,"State Prison,Probation",No,Yes,No
+444,Roger Hensley,No,Yes,Less,Unknown,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,931.0,440.0,a private attorney,Other,7.0,8.0,Probation,Yes,No,No
+445,Kyle White,No,No,Unclear,White,District Court,Female,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,890.0,94.0,from CPCS,Other,8.0,47.0,Probation,Yes,Yes,Yes
+446,Roger Hensley,No,No,More,Black,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,287.0,565.0,a private attorney,Nolle Prosequi,10.0,6.0,State Prison,Yes,Yes,No
+447,Kaitlin Flores,No,Yes,Unclear,Hispanic,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,194.0,400.0,unknown,Dismissed,9.0,9.0,House of Corrections,No,No,No
+448,Julia Obrien,No,No,Unclear,Black,Superior Court,Female,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,958.0,730.0,from CPCS,Nolle Prosequi,3.0,3.0,"State Prison,Probation",No,No,No
+449,Julia Obrien,Yes,Yes,Unknown,White,Not yet determined,Female,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,443.0,524.0,a private attorney,Dismissed,9.0,29.0,"State Prison,Probation",No,Yes,Yes
+450,Roger Hensley,No,Yes,Unknown,Black,Not yet determined,Male,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,459.0,625.0,unknown,Guilty verdict/finding,10.0,50.0,Probation,Yes,Yes,No
+451,Julia Obrien,No,No,More,White,Not yet determined,Female,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,627.0,228.0,unknown,Other,1.0,30.0,"State Prison,Probation",No,No,No
+452,Kaitlin Flores,No,Yes,Less,Hispanic,Not yet determined,Male,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,108.0,384.0,a court-appointed lawyer,Continuance without a finding,4.0,17.0,County/Split,Yes,No,Yes
+453,Rebecca Becker,No,No,More,White,Not yet determined,Male,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,895.0,401.0,a private attorney,Nolle Prosequi,6.0,5.0,House of Corrections,No,No,Yes
+454,Marie Green,Yes,Yes,Unclear,Black,District Court,Male,1.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,176.0,12.0,a private attorney,Other,4.0,26.0,"State Prison,Probation",No,Yes,No
+455,Roger Hensley,Yes,Yes,Unknown,Other,Not yet determined,Male,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,662.0,575.0,a court-appointed lawyer,Guilty verdict/finding,2.0,6.0,State Prison,Yes,Yes,No
+456,Gregory Wilkins,No,Yes,Unclear,Hispanic,District Court,Male,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,837.0,337.0,unknown,Nolle Prosequi,0.0,29.0,County/Split,Yes,Yes,Yes
+457,Kaitlin Flores,Yes,Yes,Unclear,Unknown,Superior Court,Female,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,745.0,585.0,a private attorney,Dismissed,1.0,43.0,State Prison,No,No,No
+458,Gregory Wilkins,Yes,Yes,Unclear,Unknown,Superior Court,Female,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,997.0,414.0,unknown,Guilty verdict/finding,1.0,44.0,Probation,No,Yes,No
+459,Kyle White,No,No,Less,White,District Court,Female,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,236.0,559.0,a private attorney,267/87,8.0,9.0,Probation,No,Yes,No
+460,Julia Obrien,Yes,Yes,More,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,802.0,752.0,a private attorney,267/87,8.0,5.0,Probation,Yes,No,Yes
+461,Julia Obrien,No,No,Unclear,White,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,884.0,206.0,a court-appointed lawyer,Dismissed,0.0,20.0,Probation,No,Yes,No
+462,Roger Hensley,Yes,Yes,More,Hispanic,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,641.0,241.0,a court-appointed lawyer,267/87,8.0,21.0,"State Prison,Probation",No,Yes,Yes
+463,Kaitlin Flores,No,Yes,More,Other,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,562.0,374.0,a court-appointed lawyer,267/87,0.0,11.0,House of Corrections,Yes,No,No
+464,Gregory Wilkins,No,Yes,Unclear,Hispanic,Superior Court,Male,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,518.0,547.0,unknown,Dismissed,6.0,8.0,State Prison,No,No,Yes
+465,Zachary Mccall,Yes,No,Less,Unknown,District Court,Female,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,967.0,116.0,from CPCS,Continuance without a finding,5.0,17.0,"State Prison,Probation",No,Yes,No
+466,Kaitlin Flores,No,No,Unknown,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,134.0,614.0,a private attorney,Nolle Prosequi,0.0,49.0,House of Corrections,Yes,Yes,Yes
+467,Zachary Mccall,Yes,Yes,Less,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,481.0,565.0,a court-appointed lawyer,267/87,1.0,5.0,House of Corrections,No,Yes,No
+468,Roger Hensley,Yes,Yes,Unknown,Hispanic,Superior Court,Male,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,809.0,302.0,a private attorney,267/87,4.0,25.0,"State Prison,Probation",Yes,Yes,Yes
+469,Rebecca Becker,Yes,Yes,Less,Black,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,929.0,653.0,a court-appointed lawyer,Other,2.0,1.0,State Prison,Yes,Yes,No
+470,Paul Russell,Yes,No,Unclear,Unknown,Not yet determined,Male,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,894.0,131.0,from CPCS,Continuance without a finding,0.0,18.0,House of Corrections,No,Yes,No
+471,Kyle White,Yes,No,Unknown,Hispanic,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,546.0,40.0,from CPCS,Dismissed,4.0,0.0,County/Split,Yes,No,Yes
+472,Matthew Perez,No,Yes,Unclear,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,473.0,185.0,a private attorney,Guilty verdict/finding,0.0,16.0,County/Split,Yes,Yes,Yes
+473,Paul Russell,No,No,Less,Other,Superior Court,Female,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,632.0,465.0,from CPCS,Other,4.0,48.0,County/Split,No,Yes,Yes
+474,Marie Green,No,Yes,Unknown,Hispanic,Not yet determined,Male,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,528.0,470.0,unknown,Dismissed,6.0,29.0,County/Split,Yes,No,Yes
+475,Rebecca Becker,Yes,Yes,Less,Black,Superior Court,Female,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,328.0,783.0,a private attorney,Other,9.0,3.0,County/Split,Yes,No,No
+476,Gregory Wilkins,Yes,Yes,Unclear,Black,District Court,Female,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,944.0,499.0,unknown,Dismissed,9.0,5.0,House of Corrections,No,No,No
+477,Zachary Mccall,No,No,More,Other,Superior Court,Female,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,531.0,337.0,from CPCS,Nolle Prosequi,0.0,7.0,State Prison,Yes,Yes,Yes
+478,Marie Green,No,Yes,More,Other,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,452.0,749.0,a private attorney,Nolle Prosequi,1.0,28.0,"State Prison,Probation",Yes,Yes,No
+479,Kyle White,Yes,Yes,Unknown,Black,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,575.0,6.0,unknown,Guilty verdict/finding,1.0,7.0,Probation,Yes,No,No
+480,Gregory Wilkins,Yes,Yes,Unknown,Unknown,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,444.0,787.0,unknown,267/87,8.0,19.0,Probation,No,Yes,Yes
+481,Rebecca Becker,Yes,No,More,Black,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,767.0,445.0,unknown,Continuance without a finding,9.0,44.0,House of Corrections,No,No,Yes
+482,Marie Green,No,No,More,Hispanic,Superior Court,Female,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,320.0,490.0,from CPCS,Guilty verdict/finding,1.0,12.0,"State Prison,Probation",No,No,No
+483,Kyle White,No,Yes,Unknown,Hispanic,Not yet determined,Male,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,166.0,211.0,unknown,Other,3.0,25.0,House of Corrections,Yes,No,No
+484,Roger Hensley,Yes,No,Unclear,Unknown,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,571.0,697.0,unknown,Other,9.0,49.0,State Prison,No,No,No
+485,Kyle White,Yes,No,More,Other,Not yet determined,Male,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,309.0,134.0,unknown,Other,6.0,20.0,State Prison,No,Yes,No
+486,Roger Hensley,Yes,No,Unclear,Other,Not yet determined,Female,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,499.0,321.0,a court-appointed lawyer,Other,5.0,45.0,"State Prison,Probation",No,No,No
+487,Kyle White,No,Yes,Unclear,Other,District Court,Male,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,797.0,65.0,a court-appointed lawyer,Other,7.0,9.0,Probation,Yes,No,No
+488,Kaitlin Flores,No,No,Unknown,White,Superior Court,Female,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,253.0,293.0,from CPCS,Nolle Prosequi,0.0,41.0,Probation,Yes,No,No
+489,Kaitlin Flores,Yes,No,Unclear,Other,Superior Court,Male,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,869.0,244.0,a private attorney,267/87,2.0,28.0,County/Split,Yes,Yes,No
+490,Gregory Wilkins,Yes,Yes,More,Other,District Court,Male,1.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,611.0,483.0,a court-appointed lawyer,Dismissed,2.0,27.0,County/Split,Yes,No,Yes
+491,Gregory Wilkins,No,No,More,Hispanic,District Court,Female,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,177.0,353.0,a court-appointed lawyer,Dismissed,10.0,0.0,County/Split,No,Yes,Yes
+492,Kaitlin Flores,Yes,Yes,Unclear,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,797.0,711.0,unknown,Other,2.0,4.0,County/Split,No,Yes,No
+493,Rebecca Becker,Yes,Yes,Less,Other,Superior Court,Male,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,160.0,514.0,a court-appointed lawyer,Dismissed,4.0,34.0,"State Prison,Probation",No,Yes,Yes
+494,Rebecca Becker,No,Yes,More,Other,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,193.0,708.0,a court-appointed lawyer,Dismissed,2.0,16.0,"State Prison,Probation",Yes,Yes,No
+495,Rebecca Becker,No,Yes,Unknown,Unknown,Not yet determined,Male,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,415.0,141.0,unknown,Continuance without a finding,1.0,27.0,State Prison,No,No,Yes
+496,Julia Obrien,No,Yes,Unknown,White,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,487.0,178.0,a private attorney,Continuance without a finding,10.0,4.0,House of Corrections,Yes,Yes,Yes
+497,Kaitlin Flores,Yes,No,Unclear,Other,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,813.0,135.0,unknown,Dismissed,6.0,4.0,Probation,No,No,Yes
+498,Rebecca Becker,Yes,Yes,Less,Unknown,District Court,Male,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,292.0,675.0,a court-appointed lawyer,Other,1.0,0.0,"State Prison,Probation",Yes,No,Yes
+499,Matthew Perez,No,Yes,Unknown,Other,Not yet determined,Male,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,870.0,57.0,a court-appointed lawyer,Other,2.0,22.0,House of Corrections,Yes,No,No
+500,Kaitlin Flores,No,No,Less,Hispanic,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,293.0,362.0,a court-appointed lawyer,Guilty verdict/finding,4.0,29.0,Probation,Yes,Yes,Yes
+501,Julia Obrien,No,No,Unknown,White,Superior Court,Female,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,306.0,383.0,unknown,Continuance without a finding,2.0,27.0,"State Prison,Probation",Yes,Yes,Yes
+502,Marie Green,Yes,Yes,More,Black,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,526.0,571.0,a court-appointed lawyer,Guilty verdict/finding,8.0,36.0,"State Prison,Probation",No,No,Yes
+503,Kaitlin Flores,No,Yes,More,Other,Superior Court,Female,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,424.0,658.0,unknown,Continuance without a finding,0.0,8.0,Probation,Yes,Yes,No
+504,Kaitlin Flores,No,Yes,Less,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,452.0,536.0,a private attorney,Guilty verdict/finding,6.0,5.0,State Prison,No,Yes,Yes
+505,Marie Green,Yes,Yes,Unknown,Hispanic,Not yet determined,Female,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,879.0,487.0,from CPCS,Guilty verdict/finding,3.0,14.0,State Prison,No,No,No
+506,Gregory Wilkins,Yes,No,Unclear,Other,District Court,Female,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,712.0,574.0,a court-appointed lawyer,Continuance without a finding,1.0,46.0,State Prison,No,Yes,Yes
+507,Matthew Perez,Yes,Yes,Unclear,Black,District Court,Female,0.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,655.0,737.0,a court-appointed lawyer,Guilty verdict/finding,6.0,28.0,State Prison,Yes,Yes,Yes
+508,Julia Obrien,No,No,Unknown,Hispanic,Superior Court,Male,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,577.0,200.0,unknown,Dismissed,3.0,21.0,House of Corrections,No,Yes,Yes
+509,Julia Obrien,Yes,Yes,Less,Unknown,Not yet determined,Female,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,886.0,705.0,from CPCS,Guilty verdict/finding,5.0,15.0,County/Split,No,Yes,Yes
+510,Julia Obrien,No,No,Less,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,486.0,610.0,unknown,Dismissed,1.0,44.0,"State Prison,Probation",Yes,Yes,No
+511,Gregory Wilkins,Yes,No,More,Unknown,Not yet determined,Male,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,546.0,620.0,a court-appointed lawyer,Nolle Prosequi,0.0,47.0,House of Corrections,No,Yes,Yes
+512,Zachary Mccall,Yes,No,Unknown,Hispanic,District Court,Male,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,507.0,294.0,a court-appointed lawyer,267/87,6.0,39.0,"State Prison,Probation",Yes,No,Yes
+513,Kaitlin Flores,No,Yes,Unknown,Hispanic,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,379.0,197.0,a private attorney,Guilty verdict/finding,8.0,38.0,"State Prison,Probation",Yes,No,No
+514,Paul Russell,Yes,No,Unclear,Hispanic,Superior Court,Female,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,400.0,274.0,unknown,Continuance without a finding,9.0,27.0,State Prison,Yes,No,No
+515,Zachary Mccall,No,No,Unknown,White,Superior Court,Male,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,349.0,545.0,a private attorney,Continuance without a finding,0.0,30.0,Probation,No,Yes,Yes
+516,Zachary Mccall,No,No,More,Unknown,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,290.0,432.0,unknown,Dismissed,0.0,12.0,House of Corrections,No,No,Yes
+517,Gregory Wilkins,Yes,No,More,Unknown,District Court,Female,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,602.0,673.0,a private attorney,Other,4.0,15.0,House of Corrections,Yes,Yes,Yes
+518,Kaitlin Flores,Yes,Yes,Unknown,White,District Court,Female,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,160.0,112.0,a court-appointed lawyer,Nolle Prosequi,8.0,10.0,County/Split,Yes,Yes,Yes
+519,Marie Green,No,No,Less,White,Not yet determined,Male,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,937.0,465.0,a private attorney,Continuance without a finding,0.0,25.0,House of Corrections,Yes,Yes,Yes
+520,Marie Green,Yes,Yes,Less,Other,District Court,Male,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,386.0,669.0,from CPCS,Dismissed,8.0,22.0,County/Split,Yes,Yes,Yes
+521,Matthew Perez,Yes,No,Less,White,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,623.0,445.0,unknown,Nolle Prosequi,5.0,35.0,"State Prison,Probation",No,Yes,Yes
+522,Gregory Wilkins,No,No,More,Black,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,219.0,262.0,unknown,Nolle Prosequi,7.0,10.0,House of Corrections,No,Yes,Yes
+523,Kaitlin Flores,Yes,Yes,Unknown,Other,Superior Court,Female,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,743.0,792.0,a private attorney,267/87,8.0,20.0,"State Prison,Probation",Yes,Yes,No
+524,Paul Russell,No,No,More,Other,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,596.0,648.0,a court-appointed lawyer,Dismissed,4.0,2.0,"State Prison,Probation",No,No,No
+525,Matthew Perez,Yes,Yes,Unclear,White,District Court,Female,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,125.0,130.0,unknown,Guilty verdict/finding,3.0,33.0,County/Split,Yes,No,Yes
+526,Paul Russell,Yes,No,Less,Other,District Court,Female,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,763.0,259.0,unknown,Other,4.0,35.0,"State Prison,Probation",No,Yes,Yes
+527,Matthew Perez,Yes,Yes,Unclear,Unknown,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,236.0,517.0,a private attorney,Dismissed,5.0,7.0,"State Prison,Probation",No,Yes,Yes
+528,Zachary Mccall,Yes,No,More,Black,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,449.0,654.0,unknown,Guilty verdict/finding,5.0,44.0,County/Split,No,No,Yes
+529,Roger Hensley,Yes,Yes,Unknown,Black,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,922.0,479.0,a private attorney,Nolle Prosequi,4.0,23.0,House of Corrections,No,Yes,No
+530,Gregory Wilkins,Yes,No,Less,Hispanic,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,393.0,354.0,a private attorney,Dismissed,3.0,6.0,Probation,Yes,No,Yes
+531,Kaitlin Flores,No,No,Unknown,Black,Superior Court,Female,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,768.0,144.0,a court-appointed lawyer,267/87,0.0,30.0,State Prison,Yes,Yes,Yes
+532,Roger Hensley,Yes,Yes,Unclear,Black,Superior Court,Female,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,523.0,144.0,unknown,Nolle Prosequi,7.0,35.0,State Prison,Yes,Yes,Yes
+533,Julia Obrien,No,No,More,Other,Superior Court,Female,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,170.0,51.0,a court-appointed lawyer,Other,10.0,45.0,State Prison,Yes,No,No
+534,Kaitlin Flores,Yes,Yes,More,Hispanic,Superior Court,Female,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,677.0,194.0,unknown,267/87,4.0,14.0,Probation,No,Yes,No
+535,Roger Hensley,Yes,Yes,Less,Black,District Court,Female,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,425.0,391.0,a private attorney,Dismissed,7.0,16.0,Probation,No,Yes,No
+536,Marie Green,No,Yes,Unknown,Other,Superior Court,Female,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,444.0,522.0,unknown,Guilty verdict/finding,8.0,18.0,"State Prison,Probation",Yes,Yes,Yes
+537,Julia Obrien,No,Yes,Unknown,Hispanic,Not yet determined,Female,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,335.0,750.0,unknown,267/87,9.0,29.0,County/Split,Yes,Yes,No
+538,Marie Green,Yes,No,Less,Black,Not yet determined,Female,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,362.0,755.0,a court-appointed lawyer,Nolle Prosequi,9.0,18.0,Probation,No,No,Yes
+539,Marie Green,No,Yes,Unknown,Unknown,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,982.0,451.0,a court-appointed lawyer,Nolle Prosequi,5.0,11.0,"State Prison,Probation",Yes,Yes,No
+540,Gregory Wilkins,No,No,Unknown,Unknown,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,815.0,641.0,a private attorney,Other,10.0,46.0,County/Split,Yes,No,No
+541,Kaitlin Flores,No,Yes,Unknown,Other,Superior Court,Female,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,249.0,753.0,from CPCS,Continuance without a finding,5.0,7.0,"State Prison,Probation",Yes,Yes,No
+542,Kyle White,Yes,Yes,More,Other,Not yet determined,Male,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,507.0,37.0,from CPCS,Continuance without a finding,8.0,24.0,County/Split,Yes,Yes,Yes
+543,Zachary Mccall,Yes,No,Unknown,Unknown,Superior Court,Male,1.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,788.0,76.0,a court-appointed lawyer,Dismissed,1.0,3.0,Probation,No,Yes,Yes
+544,Gregory Wilkins,Yes,No,More,Black,Superior Court,Male,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,222.0,746.0,a private attorney,Other,4.0,6.0,House of Corrections,Yes,Yes,Yes
+545,Matthew Perez,No,No,More,Hispanic,District Court,Male,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,826.0,791.0,unknown,Other,3.0,14.0,Probation,No,No,Yes
+546,Julia Obrien,Yes,Yes,Less,Other,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,727.0,495.0,a court-appointed lawyer,Guilty verdict/finding,2.0,28.0,Probation,No,Yes,No
+547,Matthew Perez,Yes,No,Unclear,Black,Superior Court,Female,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,986.0,178.0,a court-appointed lawyer,267/87,1.0,18.0,Probation,Yes,Yes,No
+548,Paul Russell,No,Yes,Unknown,Unknown,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,104.0,693.0,unknown,Nolle Prosequi,4.0,20.0,State Prison,Yes,No,No
+549,Roger Hensley,Yes,No,Less,White,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,152.0,161.0,unknown,Nolle Prosequi,1.0,2.0,State Prison,Yes,Yes,No
+550,Matthew Perez,Yes,Yes,Unclear,Other,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,152.0,94.0,a court-appointed lawyer,Dismissed,7.0,29.0,House of Corrections,No,Yes,Yes
+551,Julia Obrien,Yes,No,Less,White,District Court,Male,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,177.0,497.0,a private attorney,Nolle Prosequi,5.0,38.0,Probation,No,No,Yes
+552,Zachary Mccall,No,Yes,Less,White,Not yet determined,Female,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,278.0,473.0,a court-appointed lawyer,267/87,8.0,16.0,County/Split,No,Yes,No
+553,Marie Green,No,Yes,Unknown,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,914.0,560.0,a private attorney,Guilty verdict/finding,4.0,7.0,Probation,Yes,Yes,No
+554,Gregory Wilkins,Yes,Yes,Unknown,Black,Not yet determined,Male,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,992.0,573.0,from CPCS,267/87,1.0,1.0,State Prison,Yes,Yes,Yes
+555,Rebecca Becker,Yes,Yes,Unknown,Unknown,Not yet determined,Male,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,674.0,644.0,a private attorney,267/87,10.0,35.0,House of Corrections,No,Yes,No
+556,Zachary Mccall,Yes,Yes,Unclear,Other,District Court,Male,0.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,520.0,429.0,a private attorney,267/87,10.0,36.0,County/Split,Yes,Yes,No
+557,Kyle White,No,Yes,More,White,District Court,Male,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,357.0,282.0,a private attorney,Nolle Prosequi,5.0,35.0,Probation,No,No,Yes
+558,Matthew Perez,No,Yes,Unknown,Black,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,944.0,767.0,from CPCS,Continuance without a finding,5.0,32.0,State Prison,Yes,No,Yes
+559,Kyle White,No,No,Less,Hispanic,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,270.0,621.0,a private attorney,Other,0.0,27.0,County/Split,Yes,Yes,No
+560,Roger Hensley,Yes,Yes,Less,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,419.0,697.0,a court-appointed lawyer,Continuance without a finding,4.0,34.0,Probation,No,Yes,No
+561,Kyle White,No,No,More,Other,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,377.0,284.0,from CPCS,Dismissed,10.0,2.0,"State Prison,Probation",No,No,No
+562,Zachary Mccall,Yes,No,Unclear,Hispanic,Not yet determined,Female,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,655.0,333.0,from CPCS,Other,5.0,24.0,State Prison,Yes,Yes,No
+563,Matthew Perez,Yes,Yes,More,White,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,565.0,275.0,unknown,Continuance without a finding,1.0,48.0,House of Corrections,No,No,No
+564,Marie Green,Yes,No,Unclear,Unknown,District Court,Male,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,648.0,111.0,a private attorney,Other,4.0,47.0,State Prison,No,Yes,Yes
+565,Kaitlin Flores,No,No,Less,Black,Not yet determined,Male,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,421.0,785.0,from CPCS,Guilty verdict/finding,2.0,3.0,County/Split,Yes,Yes,No
+566,Marie Green,No,No,More,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,268.0,450.0,from CPCS,Dismissed,1.0,48.0,Probation,No,No,No
+567,Kaitlin Flores,No,Yes,Less,Other,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,585.0,405.0,a private attorney,Other,9.0,28.0,State Prison,No,No,Yes
+568,Zachary Mccall,Yes,No,More,Black,Superior Court,Male,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,808.0,556.0,a private attorney,Guilty verdict/finding,1.0,25.0,House of Corrections,Yes,No,Yes
+569,Kyle White,No,No,More,Unknown,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,157.0,562.0,from CPCS,Nolle Prosequi,0.0,27.0,Probation,Yes,No,Yes
+570,Marie Green,No,No,More,Black,Not yet determined,Female,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,760.0,439.0,unknown,Nolle Prosequi,3.0,29.0,Probation,No,No,No
+571,Julia Obrien,Yes,No,Unclear,Black,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,760.0,192.0,unknown,Guilty verdict/finding,6.0,31.0,Probation,Yes,Yes,Yes
+572,Julia Obrien,Yes,Yes,Less,Hispanic,Not yet determined,Male,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,971.0,628.0,unknown,Dismissed,1.0,14.0,County/Split,Yes,Yes,No
+573,Zachary Mccall,Yes,Yes,Less,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,858.0,80.0,from CPCS,Guilty verdict/finding,0.0,19.0,County/Split,Yes,Yes,Yes
+574,Zachary Mccall,No,No,Less,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,760.0,188.0,from CPCS,Nolle Prosequi,7.0,40.0,Probation,Yes,Yes,Yes
+575,Kaitlin Flores,Yes,No,More,Black,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,450.0,645.0,from CPCS,267/87,5.0,50.0,Probation,Yes,No,Yes
+576,Paul Russell,Yes,Yes,Less,Black,District Court,Male,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,919.0,71.0,a court-appointed lawyer,Dismissed,3.0,5.0,House of Corrections,Yes,Yes,Yes
+577,Matthew Perez,No,Yes,Unknown,Hispanic,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,758.0,75.0,from CPCS,Continuance without a finding,9.0,9.0,House of Corrections,Yes,No,No
+578,Rebecca Becker,Yes,Yes,More,Other,District Court,Male,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,166.0,242.0,from CPCS,Other,5.0,9.0,State Prison,Yes,Yes,No
+579,Gregory Wilkins,Yes,Yes,Less,Unknown,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,667.0,407.0,from CPCS,267/87,4.0,46.0,Probation,Yes,Yes,No
+580,Julia Obrien,No,Yes,Less,Other,District Court,Female,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,421.0,224.0,from CPCS,Other,10.0,32.0,"State Prison,Probation",Yes,Yes,No
+581,Julia Obrien,No,No,Less,White,District Court,Female,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,550.0,696.0,a private attorney,Guilty verdict/finding,2.0,20.0,Probation,No,Yes,Yes
+582,Marie Green,Yes,Yes,Less,White,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,722.0,95.0,unknown,Continuance without a finding,8.0,50.0,County/Split,No,Yes,Yes
+583,Kaitlin Flores,Yes,Yes,More,Black,District Court,Female,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,764.0,111.0,from CPCS,Dismissed,0.0,33.0,Probation,No,Yes,Yes
+584,Kyle White,Yes,No,Unclear,White,Not yet determined,Male,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,169.0,472.0,unknown,Dismissed,7.0,15.0,"State Prison,Probation",No,Yes,No
+585,Roger Hensley,Yes,No,Unknown,Other,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,644.0,307.0,unknown,Other,0.0,18.0,County/Split,Yes,No,Yes
+586,Gregory Wilkins,No,No,Unclear,Other,Not yet determined,Male,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,737.0,219.0,a court-appointed lawyer,Other,0.0,25.0,Probation,No,No,Yes
+587,Roger Hensley,Yes,Yes,Less,Unknown,Not yet determined,Male,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,833.0,595.0,from CPCS,267/87,5.0,40.0,Probation,No,No,Yes
+588,Julia Obrien,Yes,Yes,Unclear,Hispanic,District Court,Female,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,852.0,798.0,a private attorney,Nolle Prosequi,9.0,33.0,Probation,Yes,No,No
+589,Julia Obrien,Yes,Yes,Unclear,Other,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,655.0,641.0,a court-appointed lawyer,Dismissed,3.0,23.0,"State Prison,Probation",No,Yes,No
+590,Zachary Mccall,No,Yes,Less,Hispanic,Superior Court,Male,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,567.0,223.0,unknown,Nolle Prosequi,8.0,34.0,State Prison,No,No,Yes
+591,Matthew Perez,No,No,Less,Other,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,177.0,414.0,a court-appointed lawyer,Dismissed,5.0,26.0,House of Corrections,No,Yes,Yes
+592,Paul Russell,No,Yes,Unknown,White,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,777.0,448.0,unknown,Nolle Prosequi,5.0,46.0,"State Prison,Probation",Yes,Yes,Yes
+593,Julia Obrien,Yes,Yes,More,Other,Not yet determined,Male,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,440.0,6.0,from CPCS,Dismissed,9.0,34.0,County/Split,Yes,Yes,No
+594,Gregory Wilkins,No,No,Less,Hispanic,Not yet determined,Female,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,583.0,288.0,from CPCS,Continuance without a finding,2.0,4.0,County/Split,No,Yes,No
+595,Kaitlin Flores,Yes,Yes,Less,Hispanic,Superior Court,Female,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,917.0,681.0,unknown,Other,6.0,43.0,"State Prison,Probation",No,No,Yes
+596,Rebecca Becker,Yes,No,Unknown,Unknown,Superior Court,Male,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,774.0,196.0,from CPCS,Nolle Prosequi,2.0,10.0,House of Corrections,Yes,Yes,No
+597,Roger Hensley,Yes,No,Less,Hispanic,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,885.0,220.0,a court-appointed lawyer,Nolle Prosequi,3.0,37.0,State Prison,No,Yes,No
+598,Marie Green,Yes,No,Less,Unknown,Superior Court,Male,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,910.0,10.0,from CPCS,267/87,8.0,18.0,Probation,Yes,Yes,Yes
+599,Marie Green,No,Yes,Unknown,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,266.0,789.0,from CPCS,Nolle Prosequi,1.0,21.0,State Prison,Yes,Yes,No
+600,Kaitlin Flores,No,Yes,More,Black,Superior Court,Male,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,421.0,265.0,from CPCS,Other,10.0,48.0,County/Split,No,No,Yes
+601,Marie Green,No,No,Unknown,White,Superior Court,Female,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,799.0,696.0,a court-appointed lawyer,Nolle Prosequi,2.0,38.0,County/Split,Yes,No,No
+602,Zachary Mccall,No,No,More,Unknown,District Court,Male,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,264.0,4.0,unknown,Other,6.0,29.0,House of Corrections,No,Yes,No
+603,Marie Green,No,Yes,Less,Other,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1000.0,529.0,a court-appointed lawyer,Guilty verdict/finding,0.0,7.0,"State Prison,Probation",Yes,No,No
+604,Kaitlin Flores,Yes,No,More,White,Not yet determined,Male,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,829.0,561.0,from CPCS,Nolle Prosequi,8.0,7.0,State Prison,No,Yes,No
+605,Zachary Mccall,Yes,No,Unknown,Black,Not yet determined,Male,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,428.0,165.0,a court-appointed lawyer,Nolle Prosequi,0.0,47.0,State Prison,Yes,Yes,No
+606,Marie Green,Yes,No,Less,Black,District Court,Male,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,104.0,507.0,unknown,Guilty verdict/finding,7.0,27.0,Probation,Yes,Yes,No
+607,Paul Russell,No,Yes,Less,Hispanic,District Court,Female,1.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,944.0,36.0,from CPCS,Guilty verdict/finding,9.0,49.0,Probation,Yes,Yes,No
+608,Marie Green,Yes,No,Unknown,Unknown,District Court,Male,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,666.0,84.0,from CPCS,Continuance without a finding,7.0,29.0,House of Corrections,Yes,No,Yes
+609,Roger Hensley,No,Yes,Unclear,Black,Not yet determined,Female,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,144.0,614.0,a court-appointed lawyer,Other,2.0,18.0,House of Corrections,Yes,Yes,No
+610,Roger Hensley,No,No,Less,Black,Superior Court,Male,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,609.0,444.0,unknown,Continuance without a finding,2.0,35.0,House of Corrections,No,Yes,No
+611,Kaitlin Flores,No,No,Less,Hispanic,Superior Court,Male,0.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,727.0,382.0,from CPCS,267/87,0.0,22.0,State Prison,No,Yes,No
+612,Kyle White,Yes,Yes,Unclear,Black,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,843.0,761.0,a private attorney,Other,8.0,24.0,Probation,No,No,No
+613,Roger Hensley,No,Yes,Less,Black,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,257.0,53.0,unknown,Other,9.0,2.0,State Prison,Yes,Yes,Yes
+614,Paul Russell,Yes,Yes,More,Other,Superior Court,Female,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,161.0,756.0,unknown,Nolle Prosequi,8.0,28.0,House of Corrections,Yes,No,No
+615,Zachary Mccall,No,Yes,Unclear,Unknown,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,500.0,720.0,from CPCS,Continuance without a finding,9.0,0.0,State Prison,No,Yes,Yes
+616,Matthew Perez,No,Yes,Unclear,Unknown,Superior Court,Female,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,206.0,701.0,unknown,Other,9.0,3.0,Probation,No,No,No
+617,Rebecca Becker,Yes,No,Unclear,Hispanic,Superior Court,Female,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,106.0,112.0,a private attorney,Continuance without a finding,3.0,16.0,State Prison,Yes,No,Yes
+618,Roger Hensley,Yes,Yes,Unclear,Black,District Court,Female,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,273.0,786.0,a private attorney,Nolle Prosequi,3.0,29.0,County/Split,No,Yes,Yes
+619,Matthew Perez,Yes,No,More,Black,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,354.0,302.0,a court-appointed lawyer,Nolle Prosequi,7.0,29.0,House of Corrections,Yes,Yes,Yes
+620,Kaitlin Flores,No,No,Unknown,White,Not yet determined,Female,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,502.0,460.0,from CPCS,Other,7.0,44.0,Probation,No,No,No
+621,Zachary Mccall,No,No,Unclear,Hispanic,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,827.0,647.0,a private attorney,267/87,5.0,37.0,County/Split,No,Yes,No
+622,Julia Obrien,Yes,No,Less,Hispanic,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,870.0,394.0,from CPCS,Guilty verdict/finding,9.0,50.0,Probation,No,No,No
+623,Zachary Mccall,Yes,Yes,Less,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,937.0,178.0,a court-appointed lawyer,Other,0.0,19.0,"State Prison,Probation",No,Yes,No
+624,Kaitlin Flores,Yes,Yes,Less,White,District Court,Male,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,439.0,480.0,a court-appointed lawyer,Dismissed,7.0,37.0,County/Split,No,No,Yes
+625,Kaitlin Flores,No,Yes,Unclear,White,Not yet determined,Male,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,960.0,338.0,a court-appointed lawyer,267/87,1.0,12.0,"State Prison,Probation",No,Yes,Yes
+626,Matthew Perez,Yes,No,Unknown,Other,Superior Court,Male,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,687.0,376.0,from CPCS,Dismissed,6.0,32.0,County/Split,Yes,No,Yes
+627,Paul Russell,No,No,Unclear,Black,Not yet determined,Male,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,166.0,125.0,a court-appointed lawyer,Nolle Prosequi,3.0,18.0,"State Prison,Probation",Yes,No,Yes
+628,Marie Green,No,Yes,Unknown,Unknown,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,362.0,112.0,a court-appointed lawyer,Continuance without a finding,5.0,9.0,House of Corrections,No,No,No
+629,Roger Hensley,No,No,Less,Other,Superior Court,Male,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,378.0,438.0,unknown,267/87,10.0,8.0,County/Split,No,No,No
+630,Rebecca Becker,No,No,More,Other,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,231.0,185.0,a private attorney,Nolle Prosequi,10.0,9.0,Probation,No,Yes,Yes
+631,Marie Green,Yes,No,Unknown,Hispanic,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,672.0,313.0,from CPCS,267/87,7.0,26.0,County/Split,No,No,Yes
+632,Gregory Wilkins,No,Yes,Unclear,Hispanic,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,439.0,561.0,from CPCS,267/87,10.0,20.0,Probation,No,No,Yes
+633,Roger Hensley,No,No,Less,Unknown,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,334.0,760.0,unknown,Other,4.0,2.0,House of Corrections,Yes,No,No
+634,Kyle White,Yes,Yes,Unclear,Black,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,304.0,586.0,a private attorney,Dismissed,0.0,9.0,County/Split,Yes,No,Yes
+635,Roger Hensley,Yes,Yes,Unknown,Other,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,561.0,440.0,unknown,Other,0.0,19.0,House of Corrections,Yes,Yes,No
+636,Kyle White,Yes,Yes,Less,White,Superior Court,Female,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,934.0,418.0,a court-appointed lawyer,Continuance without a finding,5.0,11.0,Probation,Yes,Yes,Yes
+637,Kyle White,No,Yes,Unknown,Unknown,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,805.0,93.0,from CPCS,Guilty verdict/finding,7.0,35.0,County/Split,No,Yes,No
+638,Rebecca Becker,Yes,No,Unknown,Other,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,150.0,268.0,from CPCS,Other,2.0,42.0,House of Corrections,Yes,Yes,No
+639,Paul Russell,No,No,Unknown,Hispanic,District Court,Female,1.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,492.0,1.0,a court-appointed lawyer,Other,3.0,35.0,Probation,No,No,No
+640,Marie Green,No,Yes,Unclear,Black,District Court,Male,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,819.0,419.0,from CPCS,267/87,10.0,50.0,Probation,No,Yes,No
+641,Rebecca Becker,Yes,Yes,Unclear,Other,Not yet determined,Male,0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,562.0,364.0,a private attorney,Nolle Prosequi,4.0,31.0,Probation,Yes,No,No
+642,Gregory Wilkins,No,Yes,Unclear,Unknown,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,885.0,149.0,a court-appointed lawyer,Guilty verdict/finding,5.0,0.0,State Prison,Yes,No,No
+643,Julia Obrien,No,No,Less,Hispanic,Superior Court,Female,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,244.0,639.0,from CPCS,Other,5.0,13.0,"State Prison,Probation",Yes,No,Yes
+644,Matthew Perez,Yes,No,Unclear,Hispanic,District Court,Male,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,979.0,161.0,a court-appointed lawyer,Continuance without a finding,7.0,36.0,"State Prison,Probation",No,Yes,No
+645,Rebecca Becker,No,Yes,More,White,District Court,Female,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,912.0,139.0,from CPCS,Dismissed,2.0,5.0,County/Split,Yes,No,No
+646,Matthew Perez,No,Yes,Unknown,White,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,105.0,425.0,a court-appointed lawyer,Nolle Prosequi,3.0,35.0,House of Corrections,No,Yes,Yes
+647,Zachary Mccall,Yes,No,Less,Black,Superior Court,Male,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,223.0,399.0,unknown,Guilty verdict/finding,4.0,37.0,"State Prison,Probation",Yes,Yes,No
+648,Zachary Mccall,Yes,Yes,Unknown,Other,Superior Court,Male,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,367.0,362.0,a court-appointed lawyer,Other,4.0,42.0,"State Prison,Probation",No,Yes,Yes
+649,Rebecca Becker,Yes,Yes,Unclear,Unknown,Superior Court,Male,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,613.0,176.0,a court-appointed lawyer,Nolle Prosequi,6.0,46.0,Probation,No,Yes,Yes
+650,Kaitlin Flores,No,Yes,Unclear,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,732.0,246.0,from CPCS,Dismissed,4.0,43.0,"State Prison,Probation",No,No,Yes
+651,Paul Russell,No,No,Less,Unknown,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,444.0,763.0,from CPCS,Continuance without a finding,9.0,20.0,House of Corrections,Yes,No,Yes
+652,Matthew Perez,No,No,Less,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,927.0,366.0,unknown,Continuance without a finding,6.0,24.0,County/Split,No,No,Yes
+653,Julia Obrien,Yes,Yes,Unclear,Hispanic,Not yet determined,Male,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,450.0,348.0,unknown,Other,0.0,39.0,"State Prison,Probation",Yes,Yes,Yes
+654,Julia Obrien,No,No,More,Black,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,624.0,296.0,a court-appointed lawyer,267/87,10.0,40.0,House of Corrections,No,Yes,Yes
+655,Julia Obrien,Yes,No,Unknown,Hispanic,District Court,Male,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,525.0,294.0,a private attorney,Continuance without a finding,3.0,35.0,Probation,Yes,Yes,Yes
+656,Kaitlin Flores,No,No,Unknown,Black,Superior Court,Female,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,786.0,208.0,from CPCS,Continuance without a finding,1.0,42.0,"State Prison,Probation",No,No,Yes
+657,Matthew Perez,No,Yes,More,Unknown,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,763.0,97.0,from CPCS,Guilty verdict/finding,2.0,2.0,Probation,No,No,Yes
+658,Julia Obrien,No,Yes,Unclear,Other,Not yet determined,Male,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,594.0,222.0,a court-appointed lawyer,Nolle Prosequi,1.0,41.0,House of Corrections,No,No,No
+659,Kaitlin Flores,No,Yes,Unclear,Unknown,Not yet determined,Female,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,937.0,59.0,a private attorney,Dismissed,5.0,11.0,Probation,Yes,No,Yes
+660,Matthew Perez,No,No,Unclear,Black,Not yet determined,Female,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,586.0,10.0,from CPCS,Nolle Prosequi,0.0,46.0,House of Corrections,Yes,Yes,Yes
+661,Gregory Wilkins,No,Yes,Unclear,Unknown,Not yet determined,Male,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,811.0,24.0,a private attorney,Guilty verdict/finding,5.0,50.0,Probation,Yes,No,No
+662,Roger Hensley,Yes,No,More,Hispanic,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,603.0,420.0,unknown,Nolle Prosequi,7.0,40.0,House of Corrections,No,Yes,No
+663,Zachary Mccall,No,No,More,Unknown,Superior Court,Male,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,665.0,282.0,unknown,267/87,1.0,2.0,State Prison,No,No,No
+664,Kaitlin Flores,No,No,Unknown,Black,Superior Court,Male,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,908.0,16.0,unknown,Nolle Prosequi,0.0,3.0,Probation,No,Yes,Yes
+665,Roger Hensley,Yes,No,More,Hispanic,District Court,Male,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,900.0,632.0,a private attorney,Other,10.0,35.0,Probation,No,Yes,Yes
+666,Rebecca Becker,No,No,Less,Hispanic,District Court,Female,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,648.0,79.0,unknown,Dismissed,10.0,49.0,House of Corrections,No,Yes,Yes
+667,Zachary Mccall,No,Yes,Unknown,Unknown,District Court,Female,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,310.0,171.0,unknown,Other,10.0,49.0,County/Split,Yes,Yes,Yes
+668,Gregory Wilkins,No,No,Less,Hispanic,Not yet determined,Female,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,806.0,637.0,a court-appointed lawyer,267/87,1.0,9.0,County/Split,No,No,No
+669,Rebecca Becker,No,Yes,More,Hispanic,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,704.0,386.0,a court-appointed lawyer,Continuance without a finding,6.0,12.0,Probation,No,Yes,No
+670,Marie Green,Yes,No,Unknown,Unknown,Superior Court,Male,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,719.0,743.0,a court-appointed lawyer,Dismissed,4.0,36.0,House of Corrections,No,Yes,No
+671,Zachary Mccall,Yes,Yes,More,Hispanic,Superior Court,Male,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,635.0,639.0,a private attorney,Continuance without a finding,2.0,0.0,House of Corrections,No,Yes,Yes
+672,Kyle White,Yes,Yes,More,Other,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,365.0,49.0,unknown,Other,4.0,46.0,State Prison,Yes,No,Yes
+673,Kyle White,No,No,Unknown,White,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,412.0,716.0,from CPCS,Guilty verdict/finding,0.0,12.0,County/Split,No,Yes,No
+674,Roger Hensley,No,No,Unclear,Black,Not yet determined,Male,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,874.0,330.0,a private attorney,Nolle Prosequi,9.0,34.0,State Prison,Yes,No,Yes
+675,Marie Green,Yes,No,More,Black,Not yet determined,Male,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,562.0,657.0,unknown,Guilty verdict/finding,4.0,36.0,County/Split,No,No,Yes
+676,Gregory Wilkins,No,No,Unknown,Other,Not yet determined,Female,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,875.0,323.0,from CPCS,Guilty verdict/finding,0.0,38.0,County/Split,No,No,No
+677,Rebecca Becker,Yes,No,Unknown,Hispanic,Superior Court,Female,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,434.0,563.0,a court-appointed lawyer,267/87,9.0,49.0,County/Split,No,Yes,Yes
+678,Matthew Perez,No,No,Unknown,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,340.0,208.0,from CPCS,Continuance without a finding,10.0,4.0,Probation,No,No,No
+679,Gregory Wilkins,No,Yes,Less,Unknown,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,558.0,211.0,a private attorney,Continuance without a finding,2.0,13.0,State Prison,Yes,Yes,No
+680,Gregory Wilkins,Yes,No,More,Black,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,602.0,372.0,a court-appointed lawyer,267/87,4.0,19.0,State Prison,Yes,Yes,No
+681,Paul Russell,Yes,Yes,Unknown,Black,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,140.0,283.0,unknown,Other,1.0,27.0,County/Split,No,Yes,No
+682,Marie Green,No,Yes,Unclear,White,District Court,Male,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,804.0,655.0,unknown,Other,9.0,21.0,Probation,Yes,Yes,No
+683,Marie Green,No,No,Less,Hispanic,Not yet determined,Male,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,866.0,768.0,unknown,Dismissed,8.0,5.0,County/Split,No,No,No
+684,Julia Obrien,Yes,No,More,Hispanic,District Court,Male,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,382.0,406.0,a private attorney,267/87,6.0,4.0,State Prison,No,No,No
+685,Gregory Wilkins,Yes,Yes,Unclear,Black,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,976.0,378.0,a court-appointed lawyer,Dismissed,2.0,19.0,State Prison,Yes,No,Yes
+686,Julia Obrien,No,Yes,More,Hispanic,Not yet determined,Male,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,443.0,505.0,unknown,Dismissed,8.0,8.0,County/Split,Yes,Yes,Yes
+687,Julia Obrien,No,Yes,Less,Hispanic,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,428.0,682.0,a court-appointed lawyer,Guilty verdict/finding,2.0,44.0,State Prison,No,Yes,Yes
+688,Kaitlin Flores,No,No,Unclear,Other,Superior Court,Male,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,583.0,425.0,a private attorney,Guilty verdict/finding,10.0,21.0,House of Corrections,No,No,Yes
+689,Kyle White,No,Yes,More,White,Not yet determined,Female,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,102.0,767.0,a private attorney,Other,3.0,21.0,"State Prison,Probation",No,No,Yes
+690,Kaitlin Flores,No,Yes,Less,Hispanic,Not yet determined,Female,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,351.0,512.0,a court-appointed lawyer,Dismissed,7.0,45.0,House of Corrections,No,Yes,Yes
+691,Marie Green,Yes,Yes,Unclear,Other,Not yet determined,Female,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,223.0,787.0,a court-appointed lawyer,Dismissed,5.0,26.0,"State Prison,Probation",No,Yes,Yes
+692,Zachary Mccall,Yes,No,More,Unknown,Not yet determined,Male,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,873.0,363.0,a court-appointed lawyer,Nolle Prosequi,9.0,14.0,"State Prison,Probation",No,Yes,Yes
+693,Kaitlin Flores,Yes,No,More,Hispanic,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,871.0,323.0,a private attorney,Other,6.0,19.0,"State Prison,Probation",No,No,No
+694,Roger Hensley,No,No,More,White,District Court,Male,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,454.0,240.0,a court-appointed lawyer,Continuance without a finding,8.0,29.0,House of Corrections,No,No,Yes
+695,Gregory Wilkins,Yes,Yes,Unclear,Hispanic,Not yet determined,Male,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,345.0,190.0,a court-appointed lawyer,Nolle Prosequi,5.0,23.0,"State Prison,Probation",No,No,No
+696,Gregory Wilkins,Yes,No,Unclear,Other,District Court,Female,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,712.0,542.0,from CPCS,Other,6.0,47.0,House of Corrections,No,No,Yes
+697,Zachary Mccall,Yes,Yes,Unknown,Unknown,District Court,Female,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,620.0,715.0,from CPCS,267/87,3.0,45.0,"State Prison,Probation",Yes,No,No
+698,Gregory Wilkins,No,No,Less,White,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,257.0,712.0,a private attorney,Dismissed,0.0,16.0,State Prison,Yes,Yes,Yes
+699,Marie Green,No,No,Less,Hispanic,Superior Court,Female,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,770.0,76.0,a court-appointed lawyer,Nolle Prosequi,0.0,47.0,"State Prison,Probation",No,Yes,No
+700,Gregory Wilkins,No,Yes,Unknown,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,875.0,9.0,unknown,Other,0.0,15.0,House of Corrections,Yes,No,No
+701,Kaitlin Flores,Yes,Yes,More,Unknown,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,971.0,536.0,unknown,Dismissed,6.0,28.0,State Prison,Yes,No,Yes
+702,Julia Obrien,Yes,Yes,Unknown,Unknown,Superior Court,Male,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,809.0,763.0,unknown,267/87,7.0,34.0,"State Prison,Probation",Yes,Yes,No
+703,Marie Green,Yes,No,More,White,Not yet determined,Female,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,306.0,740.0,a court-appointed lawyer,Continuance without a finding,8.0,4.0,Probation,No,No,No
+704,Julia Obrien,Yes,Yes,Less,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,882.0,336.0,unknown,267/87,4.0,4.0,House of Corrections,No,No,Yes
+705,Gregory Wilkins,No,No,Unknown,Black,Not yet determined,Female,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,346.0,141.0,unknown,Dismissed,3.0,50.0,State Prison,No,No,No
+706,Paul Russell,Yes,No,Unknown,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,840.0,314.0,unknown,Dismissed,6.0,11.0,County/Split,Yes,No,Yes
+707,Marie Green,Yes,No,Unknown,White,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,702.0,275.0,a private attorney,267/87,8.0,5.0,House of Corrections,No,Yes,No
+708,Rebecca Becker,Yes,Yes,Unclear,Black,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,413.0,778.0,unknown,Continuance without a finding,7.0,31.0,County/Split,Yes,Yes,No
+709,Kyle White,No,Yes,Unknown,Black,Not yet determined,Female,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,182.0,171.0,a private attorney,Other,0.0,36.0,State Prison,No,Yes,No
+710,Kaitlin Flores,Yes,Yes,Less,Black,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,726.0,509.0,unknown,267/87,8.0,15.0,State Prison,No,No,Yes
+711,Marie Green,Yes,No,Unclear,Hispanic,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,246.0,301.0,unknown,Nolle Prosequi,5.0,27.0,Probation,No,Yes,Yes
+712,Matthew Perez,No,No,Unknown,Other,Not yet determined,Female,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,384.0,60.0,a court-appointed lawyer,267/87,9.0,41.0,"State Prison,Probation",Yes,No,Yes
+713,Roger Hensley,Yes,No,Less,Other,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,650.0,314.0,a court-appointed lawyer,Other,6.0,32.0,House of Corrections,No,No,No
+714,Gregory Wilkins,No,No,More,Hispanic,District Court,Male,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,714.0,613.0,a court-appointed lawyer,Guilty verdict/finding,10.0,41.0,Probation,Yes,Yes,No
+715,Zachary Mccall,Yes,No,Unknown,Hispanic,Superior Court,Female,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,234.0,119.0,a private attorney,Guilty verdict/finding,3.0,26.0,State Prison,No,Yes,Yes
+716,Kaitlin Flores,Yes,Yes,More,White,District Court,Female,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,781.0,550.0,from CPCS,267/87,3.0,40.0,"State Prison,Probation",No,Yes,Yes
+717,Matthew Perez,Yes,No,More,White,Superior Court,Male,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,465.0,320.0,a private attorney,Dismissed,5.0,13.0,House of Corrections,No,Yes,No
+718,Matthew Perez,No,No,Less,Black,District Court,Male,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,343.0,794.0,unknown,267/87,7.0,18.0,"State Prison,Probation",Yes,No,Yes
+719,Gregory Wilkins,No,Yes,Less,Black,Not yet determined,Female,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,259.0,483.0,a private attorney,267/87,2.0,30.0,"State Prison,Probation",Yes,No,Yes
+720,Gregory Wilkins,Yes,Yes,Unknown,Unknown,District Court,Female,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,276.0,434.0,a private attorney,Other,8.0,39.0,"State Prison,Probation",No,No,Yes
+721,Matthew Perez,No,Yes,Unclear,Unknown,Superior Court,Female,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,636.0,142.0,a private attorney,Other,9.0,20.0,House of Corrections,No,Yes,No
+722,Zachary Mccall,No,No,Less,Hispanic,District Court,Male,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,606.0,109.0,from CPCS,Other,7.0,5.0,County/Split,No,No,No
+723,Gregory Wilkins,No,No,Unknown,White,District Court,Male,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,438.0,22.0,from CPCS,Guilty verdict/finding,3.0,45.0,"State Prison,Probation",Yes,No,Yes
+724,Marie Green,Yes,No,Unknown,White,Superior Court,Female,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,772.0,320.0,a court-appointed lawyer,Other,10.0,4.0,Probation,Yes,No,No
+725,Kyle White,Yes,Yes,Less,Hispanic,District Court,Male,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,392.0,299.0,a private attorney,Nolle Prosequi,3.0,14.0,"State Prison,Probation",Yes,No,No
+726,Kyle White,Yes,Yes,Less,Other,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,221.0,158.0,a private attorney,Continuance without a finding,9.0,40.0,State Prison,Yes,Yes,No
+727,Kyle White,Yes,Yes,Unclear,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,185.0,485.0,a court-appointed lawyer,Guilty verdict/finding,3.0,24.0,"State Prison,Probation",Yes,No,No
+728,Marie Green,Yes,No,Unknown,Black,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,567.0,778.0,unknown,Guilty verdict/finding,5.0,47.0,House of Corrections,Yes,No,No
+729,Kaitlin Flores,Yes,No,Unknown,Other,District Court,Female,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,803.0,158.0,from CPCS,Continuance without a finding,1.0,2.0,County/Split,No,No,Yes
+730,Rebecca Becker,No,Yes,Unknown,Hispanic,District Court,Male,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,133.0,751.0,a court-appointed lawyer,Nolle Prosequi,9.0,48.0,County/Split,No,Yes,No
+731,Zachary Mccall,Yes,No,Unknown,White,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,393.0,426.0,a court-appointed lawyer,Nolle Prosequi,10.0,3.0,Probation,No,No,No
+732,Gregory Wilkins,Yes,Yes,Unknown,Hispanic,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,892.0,548.0,unknown,267/87,6.0,48.0,County/Split,No,No,Yes
+733,Matthew Perez,No,No,Less,Unknown,Superior Court,Female,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,781.0,792.0,unknown,Continuance without a finding,7.0,45.0,House of Corrections,Yes,Yes,No
+734,Rebecca Becker,Yes,Yes,Unclear,Black,Not yet determined,Female,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,896.0,308.0,from CPCS,Other,0.0,15.0,House of Corrections,No,No,Yes
+735,Julia Obrien,Yes,No,Less,Other,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,687.0,608.0,from CPCS,Guilty verdict/finding,2.0,22.0,House of Corrections,No,No,Yes
+736,Matthew Perez,No,Yes,More,White,District Court,Female,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,202.0,668.0,a court-appointed lawyer,267/87,7.0,9.0,County/Split,No,Yes,Yes
+737,Paul Russell,Yes,Yes,Less,Other,Not yet determined,Female,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,280.0,25.0,unknown,Continuance without a finding,4.0,36.0,"State Prison,Probation",No,Yes,No
+738,Roger Hensley,Yes,No,Unknown,White,District Court,Female,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,216.0,657.0,from CPCS,Nolle Prosequi,4.0,9.0,"State Prison,Probation",Yes,No,No
+739,Roger Hensley,No,No,Unknown,Other,District Court,Female,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,308.0,173.0,from CPCS,Other,7.0,8.0,State Prison,Yes,No,No
+740,Zachary Mccall,Yes,Yes,Less,Other,District Court,Female,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,194.0,600.0,unknown,Guilty verdict/finding,0.0,30.0,County/Split,No,Yes,Yes
+741,Zachary Mccall,Yes,Yes,More,Unknown,District Court,Female,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,240.0,743.0,unknown,Dismissed,10.0,31.0,State Prison,No,No,No
+742,Kaitlin Flores,Yes,No,Unclear,Black,Not yet determined,Female,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,535.0,212.0,a private attorney,Nolle Prosequi,0.0,13.0,House of Corrections,Yes,No,No
+743,Zachary Mccall,Yes,Yes,Less,Unknown,District Court,Male,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,304.0,506.0,a private attorney,Guilty verdict/finding,10.0,16.0,County/Split,Yes,No,Yes
+744,Kyle White,No,Yes,More,Other,Not yet determined,Male,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,114.0,710.0,a court-appointed lawyer,Dismissed,6.0,42.0,County/Split,No,Yes,No
+745,Kaitlin Flores,No,No,Unclear,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,675.0,379.0,a private attorney,Guilty verdict/finding,5.0,43.0,House of Corrections,Yes,Yes,Yes
+746,Rebecca Becker,No,Yes,Unclear,Hispanic,Superior Court,Male,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,223.0,636.0,from CPCS,Other,9.0,47.0,State Prison,No,Yes,No
+747,Kaitlin Flores,No,Yes,Unclear,Other,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,600.0,149.0,from CPCS,Other,8.0,32.0,State Prison,No,Yes,No
+748,Roger Hensley,Yes,Yes,More,Unknown,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,962.0,563.0,from CPCS,Continuance without a finding,6.0,25.0,State Prison,Yes,Yes,No
+749,Matthew Perez,No,Yes,More,Other,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,807.0,688.0,from CPCS,Continuance without a finding,2.0,22.0,State Prison,Yes,Yes,Yes
+750,Kaitlin Flores,Yes,No,Unclear,Unknown,District Court,Male,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,186.0,630.0,from CPCS,267/87,8.0,24.0,House of Corrections,No,Yes,No
+751,Kaitlin Flores,Yes,No,Less,Unknown,Not yet determined,Female,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,808.0,765.0,unknown,Guilty verdict/finding,9.0,43.0,Probation,No,No,Yes
+752,Roger Hensley,No,Yes,More,White,District Court,Female,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,881.0,621.0,from CPCS,Nolle Prosequi,1.0,31.0,Probation,No,No,No
+753,Zachary Mccall,Yes,No,Less,Unknown,Superior Court,Female,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,243.0,609.0,a private attorney,Nolle Prosequi,7.0,12.0,State Prison,Yes,No,No
+754,Kyle White,Yes,No,Less,Unknown,District Court,Female,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,787.0,299.0,a private attorney,267/87,6.0,10.0,House of Corrections,No,Yes,Yes
+755,Kyle White,Yes,No,Unknown,Hispanic,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,477.0,502.0,from CPCS,Dismissed,8.0,47.0,Probation,Yes,No,No
+756,Kaitlin Flores,No,No,Less,Black,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,291.0,469.0,a private attorney,Dismissed,9.0,13.0,County/Split,Yes,Yes,No
+757,Kaitlin Flores,No,Yes,More,Other,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,455.0,748.0,unknown,Guilty verdict/finding,3.0,35.0,House of Corrections,Yes,No,Yes
+758,Rebecca Becker,No,Yes,More,Other,Not yet determined,Male,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,504.0,83.0,a court-appointed lawyer,Nolle Prosequi,10.0,21.0,"State Prison,Probation",No,Yes,Yes
+759,Marie Green,Yes,No,More,Hispanic,Not yet determined,Male,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,179.0,748.0,a court-appointed lawyer,Continuance without a finding,0.0,2.0,Probation,No,No,Yes
+760,Marie Green,No,No,Unclear,White,Superior Court,Male,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,866.0,223.0,from CPCS,267/87,4.0,32.0,"State Prison,Probation",No,Yes,No
+761,Zachary Mccall,Yes,No,Unclear,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,863.0,186.0,a court-appointed lawyer,Dismissed,3.0,15.0,"State Prison,Probation",No,Yes,Yes
+762,Julia Obrien,Yes,No,More,White,Not yet determined,Female,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,328.0,487.0,a court-appointed lawyer,Nolle Prosequi,10.0,3.0,"State Prison,Probation",Yes,No,Yes
+763,Kyle White,Yes,No,More,Black,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,232.0,514.0,a private attorney,Dismissed,8.0,32.0,"State Prison,Probation",No,No,Yes
+764,Kaitlin Flores,No,Yes,Unknown,Black,District Court,Female,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,161.0,626.0,from CPCS,267/87,5.0,32.0,Probation,Yes,Yes,No
+765,Paul Russell,Yes,Yes,Unclear,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,514.0,423.0,a court-appointed lawyer,267/87,1.0,4.0,House of Corrections,Yes,Yes,Yes
+766,Paul Russell,Yes,Yes,Unclear,Other,Superior Court,Male,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,946.0,254.0,a court-appointed lawyer,Dismissed,10.0,12.0,"State Prison,Probation",No,Yes,Yes
+767,Julia Obrien,Yes,Yes,Less,Unknown,Superior Court,Female,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,221.0,489.0,from CPCS,Nolle Prosequi,6.0,13.0,"State Prison,Probation",Yes,Yes,No
+768,Matthew Perez,Yes,No,More,Other,Superior Court,Female,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,960.0,628.0,from CPCS,Dismissed,10.0,17.0,State Prison,Yes,No,No
+769,Matthew Perez,Yes,Yes,Less,Hispanic,Superior Court,Male,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,787.0,258.0,unknown,267/87,1.0,35.0,State Prison,Yes,No,No
+770,Kaitlin Flores,No,No,Unknown,Other,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,919.0,395.0,unknown,267/87,5.0,35.0,House of Corrections,Yes,Yes,No
+771,Paul Russell,No,No,Unclear,White,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,547.0,541.0,a court-appointed lawyer,267/87,9.0,20.0,"State Prison,Probation",Yes,No,Yes
+772,Rebecca Becker,No,No,More,White,District Court,Male,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,944.0,41.0,from CPCS,267/87,8.0,36.0,"State Prison,Probation",Yes,No,Yes
+773,Marie Green,No,No,Unknown,White,District Court,Female,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,286.0,481.0,a private attorney,267/87,8.0,26.0,Probation,Yes,Yes,Yes
+774,Matthew Perez,No,Yes,Unclear,Hispanic,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,565.0,75.0,unknown,Continuance without a finding,2.0,9.0,"State Prison,Probation",No,Yes,No
+775,Julia Obrien,Yes,No,Unclear,Other,Superior Court,Male,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,310.0,539.0,unknown,267/87,2.0,19.0,County/Split,Yes,No,Yes
+776,Kyle White,No,No,Unclear,Other,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,845.0,179.0,a court-appointed lawyer,Nolle Prosequi,9.0,31.0,State Prison,Yes,Yes,No
+777,Kyle White,No,No,More,Hispanic,District Court,Male,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,341.0,151.0,unknown,Dismissed,7.0,31.0,House of Corrections,No,Yes,No
+778,Julia Obrien,Yes,Yes,Unknown,Unknown,Not yet determined,Female,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,225.0,61.0,a private attorney,Other,2.0,39.0,Probation,Yes,No,No
+779,Marie Green,No,No,Unknown,Hispanic,Not yet determined,Female,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,456.0,170.0,unknown,Guilty verdict/finding,5.0,45.0,Probation,Yes,No,Yes
+780,Julia Obrien,No,No,Less,Black,Not yet determined,Male,1.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,568.0,360.0,unknown,Other,0.0,32.0,"State Prison,Probation",Yes,Yes,Yes
+781,Roger Hensley,No,Yes,Unknown,Black,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,123.0,384.0,unknown,Continuance without a finding,0.0,48.0,State Prison,No,No,Yes
+782,Roger Hensley,Yes,Yes,Less,Hispanic,Not yet determined,Male,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,605.0,336.0,a private attorney,Nolle Prosequi,7.0,18.0,County/Split,No,No,No
+783,Matthew Perez,No,Yes,Less,Other,Not yet determined,Female,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,344.0,201.0,from CPCS,Guilty verdict/finding,2.0,36.0,"State Prison,Probation",No,Yes,Yes
+784,Matthew Perez,Yes,No,Unknown,Other,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,113.0,287.0,a court-appointed lawyer,Guilty verdict/finding,9.0,20.0,County/Split,No,No,No
+785,Zachary Mccall,Yes,Yes,Unclear,Other,Not yet determined,Male,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,287.0,208.0,a private attorney,Dismissed,5.0,48.0,Probation,No,Yes,No
+786,Paul Russell,No,Yes,Unclear,White,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,573.0,251.0,a court-appointed lawyer,Continuance without a finding,3.0,48.0,County/Split,No,No,Yes
+787,Paul Russell,No,No,Unclear,Unknown,Superior Court,Female,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,794.0,304.0,a court-appointed lawyer,Nolle Prosequi,3.0,4.0,"State Prison,Probation",No,Yes,Yes
+788,Marie Green,No,No,More,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,554.0,157.0,a court-appointed lawyer,Other,10.0,7.0,"State Prison,Probation",No,Yes,Yes
+789,Julia Obrien,Yes,Yes,More,Other,Not yet determined,Female,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,675.0,490.0,unknown,Other,4.0,40.0,State Prison,Yes,Yes,Yes
+790,Kaitlin Flores,No,No,More,Other,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,848.0,61.0,a court-appointed lawyer,Nolle Prosequi,1.0,23.0,County/Split,No,Yes,No
+791,Kaitlin Flores,Yes,Yes,Less,Black,Not yet determined,Female,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,612.0,692.0,a private attorney,267/87,7.0,15.0,County/Split,Yes,No,Yes
+792,Matthew Perez,Yes,No,More,Other,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,410.0,745.0,a private attorney,Nolle Prosequi,4.0,46.0,County/Split,Yes,Yes,No
+793,Zachary Mccall,No,Yes,Unknown,White,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,405.0,84.0,a court-appointed lawyer,Guilty verdict/finding,0.0,18.0,County/Split,Yes,No,Yes
+794,Rebecca Becker,No,No,Unclear,White,District Court,Female,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,887.0,577.0,from CPCS,Guilty verdict/finding,8.0,45.0,State Prison,Yes,Yes,No
+795,Roger Hensley,No,No,Less,Hispanic,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,606.0,642.0,a private attorney,Other,1.0,23.0,County/Split,Yes,No,No
+796,Zachary Mccall,No,No,Unknown,Other,Not yet determined,Male,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,581.0,591.0,a court-appointed lawyer,Guilty verdict/finding,3.0,11.0,County/Split,Yes,No,No
+797,Paul Russell,No,No,Less,Other,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,509.0,553.0,unknown,Other,0.0,39.0,House of Corrections,Yes,Yes,Yes
+798,Roger Hensley,Yes,No,Unclear,Hispanic,Superior Court,Female,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,106.0,738.0,a private attorney,267/87,2.0,50.0,Probation,No,Yes,Yes
+799,Matthew Perez,No,Yes,Unknown,Black,District Court,Female,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,694.0,374.0,a court-appointed lawyer,Dismissed,4.0,36.0,Probation,Yes,No,Yes
+800,Gregory Wilkins,No,Yes,More,Black,Not yet determined,Male,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,125.0,527.0,a court-appointed lawyer,Nolle Prosequi,10.0,7.0,"State Prison,Probation",No,Yes,No
+801,Roger Hensley,No,Yes,Unknown,Unknown,Superior Court,Female,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,648.0,431.0,from CPCS,Dismissed,10.0,7.0,House of Corrections,Yes,No,Yes
+802,Julia Obrien,Yes,No,Unclear,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,580.0,246.0,a court-appointed lawyer,Nolle Prosequi,0.0,14.0,House of Corrections,No,Yes,Yes
+803,Rebecca Becker,Yes,Yes,Unknown,Black,District Court,Female,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,864.0,775.0,unknown,267/87,8.0,2.0,County/Split,Yes,Yes,No
+804,Julia Obrien,No,Yes,Unclear,White,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,877.0,350.0,a court-appointed lawyer,Other,1.0,28.0,"State Prison,Probation",Yes,No,Yes
+805,Gregory Wilkins,Yes,No,More,White,Not yet determined,Female,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,731.0,41.0,unknown,Continuance without a finding,2.0,50.0,County/Split,No,Yes,Yes
+806,Marie Green,No,Yes,Unclear,White,Superior Court,Male,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,133.0,557.0,from CPCS,Other,9.0,17.0,"State Prison,Probation",Yes,Yes,No
+807,Gregory Wilkins,No,Yes,Unknown,Black,Superior Court,Male,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,527.0,715.0,unknown,Guilty verdict/finding,4.0,29.0,Probation,No,No,Yes
+808,Marie Green,Yes,No,More,Hispanic,District Court,Male,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,622.0,224.0,a private attorney,Continuance without a finding,7.0,38.0,State Prison,Yes,No,Yes
+809,Kyle White,No,No,Less,Other,Superior Court,Male,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,303.0,621.0,unknown,Continuance without a finding,5.0,37.0,House of Corrections,Yes,Yes,Yes
+810,Julia Obrien,No,Yes,Less,Unknown,District Court,Female,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,164.0,54.0,unknown,Dismissed,5.0,10.0,Probation,Yes,Yes,Yes
+811,Kyle White,No,Yes,Unknown,Other,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,135.0,442.0,from CPCS,Nolle Prosequi,9.0,35.0,House of Corrections,Yes,Yes,No
+812,Kyle White,Yes,No,Unclear,Black,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,261.0,518.0,a private attorney,Continuance without a finding,3.0,18.0,"State Prison,Probation",No,No,Yes
+813,Paul Russell,Yes,No,Unclear,Black,Superior Court,Female,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,154.0,66.0,a court-appointed lawyer,Other,1.0,25.0,"State Prison,Probation",Yes,Yes,No
+814,Zachary Mccall,Yes,Yes,Less,White,Superior Court,Female,0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,311.0,80.0,unknown,Guilty verdict/finding,8.0,35.0,State Prison,Yes,No,Yes
+815,Roger Hensley,Yes,Yes,Unclear,Other,Superior Court,Female,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,521.0,90.0,a private attorney,Guilty verdict/finding,5.0,7.0,House of Corrections,Yes,Yes,Yes
+816,Gregory Wilkins,Yes,No,Less,Hispanic,Not yet determined,Male,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,856.0,789.0,a private attorney,Continuance without a finding,6.0,30.0,House of Corrections,No,Yes,Yes
+817,Kyle White,No,No,Unknown,Other,District Court,Female,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,398.0,84.0,unknown,Dismissed,6.0,41.0,"State Prison,Probation",No,No,Yes
+818,Kaitlin Flores,No,Yes,Less,Hispanic,Not yet determined,Female,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,366.0,245.0,a private attorney,Continuance without a finding,3.0,47.0,House of Corrections,No,Yes,Yes
+819,Paul Russell,Yes,No,Unknown,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,191.0,747.0,unknown,Other,1.0,3.0,"State Prison,Probation",Yes,Yes,No
+820,Marie Green,No,Yes,Less,White,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,309.0,651.0,a court-appointed lawyer,Continuance without a finding,2.0,43.0,County/Split,No,No,No
+821,Zachary Mccall,Yes,No,Unclear,Hispanic,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,348.0,419.0,from CPCS,Dismissed,9.0,12.0,"State Prison,Probation",Yes,Yes,No
+822,Zachary Mccall,Yes,Yes,Unknown,White,Not yet determined,Female,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,306.0,707.0,a court-appointed lawyer,Nolle Prosequi,2.0,24.0,State Prison,No,No,Yes
+823,Roger Hensley,No,No,Unclear,Hispanic,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,734.0,56.0,a private attorney,Continuance without a finding,2.0,49.0,County/Split,No,No,Yes
+824,Rebecca Becker,Yes,No,Unclear,Hispanic,Superior Court,Female,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,508.0,314.0,from CPCS,Dismissed,8.0,20.0,Probation,No,Yes,Yes
+825,Zachary Mccall,Yes,No,Unclear,Other,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,706.0,33.0,from CPCS,Guilty verdict/finding,0.0,37.0,"State Prison,Probation",No,No,Yes
+826,Zachary Mccall,No,No,Unclear,Black,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,502.0,303.0,a court-appointed lawyer,Guilty verdict/finding,3.0,39.0,County/Split,No,No,Yes
+827,Rebecca Becker,Yes,No,Less,Hispanic,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,695.0,162.0,from CPCS,Nolle Prosequi,5.0,28.0,"State Prison,Probation",No,No,Yes
+828,Matthew Perez,No,No,Less,Black,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,543.0,200.0,a private attorney,Nolle Prosequi,5.0,0.0,Probation,No,No,No
+829,Marie Green,Yes,No,Unknown,Other,District Court,Female,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,452.0,386.0,unknown,Continuance without a finding,9.0,35.0,County/Split,Yes,No,Yes
+830,Kyle White,Yes,No,Unclear,Hispanic,Superior Court,Male,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,274.0,555.0,a private attorney,267/87,5.0,18.0,County/Split,No,Yes,No
+831,Gregory Wilkins,No,No,More,Black,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,469.0,32.0,from CPCS,Guilty verdict/finding,10.0,26.0,"State Prison,Probation",No,No,Yes
+832,Kyle White,Yes,Yes,Unknown,Other,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,798.0,645.0,from CPCS,Continuance without a finding,10.0,24.0,Probation,No,Yes,Yes
+833,Rebecca Becker,Yes,No,Unclear,Black,Not yet determined,Female,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,555.0,49.0,a private attorney,Guilty verdict/finding,2.0,47.0,"State Prison,Probation",No,Yes,No
+834,Paul Russell,No,Yes,Unclear,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,715.0,549.0,unknown,Other,9.0,36.0,State Prison,No,Yes,Yes
+835,Kyle White,Yes,No,Unknown,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,175.0,348.0,from CPCS,267/87,4.0,19.0,Probation,Yes,Yes,No
+836,Kyle White,No,No,Unclear,Black,Superior Court,Female,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,214.0,474.0,unknown,Continuance without a finding,10.0,24.0,Probation,Yes,Yes,Yes
+837,Paul Russell,Yes,No,More,Other,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,520.0,408.0,a court-appointed lawyer,267/87,2.0,38.0,House of Corrections,No,No,Yes
+838,Roger Hensley,No,No,Unknown,Unknown,Not yet determined,Male,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,970.0,517.0,a court-appointed lawyer,Nolle Prosequi,8.0,14.0,House of Corrections,Yes,Yes,Yes
+839,Paul Russell,No,Yes,Unknown,Black,Superior Court,Male,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,426.0,463.0,from CPCS,267/87,9.0,11.0,Probation,No,No,Yes
+840,Gregory Wilkins,Yes,No,More,Black,District Court,Male,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,622.0,575.0,a private attorney,267/87,1.0,18.0,State Prison,Yes,No,Yes
+841,Rebecca Becker,Yes,No,Unclear,Unknown,Superior Court,Female,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,918.0,631.0,a court-appointed lawyer,Nolle Prosequi,4.0,0.0,State Prison,No,Yes,No
+842,Julia Obrien,No,Yes,Unclear,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,467.0,654.0,a private attorney,267/87,9.0,33.0,County/Split,Yes,Yes,Yes
+843,Marie Green,No,Yes,More,Other,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,219.0,296.0,from CPCS,Other,1.0,18.0,State Prison,Yes,Yes,Yes
+844,Zachary Mccall,No,No,Unclear,Other,Superior Court,Male,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,775.0,361.0,a private attorney,Dismissed,1.0,36.0,Probation,No,Yes,Yes
+845,Roger Hensley,Yes,Yes,Unclear,Hispanic,Superior Court,Male,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,871.0,548.0,unknown,Nolle Prosequi,5.0,41.0,State Prison,Yes,Yes,No
+846,Gregory Wilkins,Yes,Yes,Unclear,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,486.0,148.0,unknown,Nolle Prosequi,1.0,16.0,Probation,Yes,Yes,Yes
+847,Kyle White,Yes,Yes,Unknown,Black,Not yet determined,Male,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,298.0,685.0,a court-appointed lawyer,Guilty verdict/finding,3.0,42.0,County/Split,No,No,Yes
+848,Marie Green,Yes,No,Unclear,Black,Not yet determined,Female,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,695.0,37.0,unknown,Nolle Prosequi,5.0,33.0,State Prison,No,Yes,Yes
+849,Zachary Mccall,No,Yes,Unknown,Black,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,535.0,115.0,a private attorney,Continuance without a finding,6.0,34.0,County/Split,Yes,No,Yes
+850,Matthew Perez,No,No,More,Unknown,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,519.0,623.0,a court-appointed lawyer,267/87,6.0,14.0,House of Corrections,No,No,No
+851,Kyle White,No,No,Unclear,Other,Not yet determined,Male,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,204.0,224.0,a private attorney,Dismissed,8.0,11.0,"State Prison,Probation",Yes,Yes,Yes
+852,Marie Green,Yes,Yes,Unknown,Unknown,Not yet determined,Male,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,502.0,85.0,unknown,Nolle Prosequi,3.0,7.0,Probation,Yes,Yes,Yes
+853,Julia Obrien,No,No,More,Other,District Court,Female,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,531.0,516.0,from CPCS,Other,7.0,22.0,County/Split,Yes,No,No
+854,Paul Russell,Yes,No,Unclear,Other,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,765.0,693.0,a court-appointed lawyer,267/87,7.0,29.0,County/Split,No,No,Yes
+855,Kyle White,No,No,Unknown,Other,Superior Court,Female,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,819.0,9.0,a court-appointed lawyer,Guilty verdict/finding,1.0,43.0,County/Split,Yes,No,No
+856,Rebecca Becker,No,Yes,Less,White,District Court,Female,1.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,581.0,120.0,a private attorney,Guilty verdict/finding,6.0,49.0,State Prison,No,No,No
+857,Rebecca Becker,Yes,No,Less,Black,District Court,Male,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,258.0,459.0,a court-appointed lawyer,Nolle Prosequi,8.0,28.0,House of Corrections,Yes,No,Yes
+858,Gregory Wilkins,Yes,Yes,Less,Black,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,277.0,413.0,from CPCS,267/87,2.0,17.0,"State Prison,Probation",No,No,No
+859,Julia Obrien,Yes,Yes,Unclear,Other,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,581.0,119.0,a court-appointed lawyer,Guilty verdict/finding,5.0,10.0,"State Prison,Probation",Yes,Yes,Yes
+860,Roger Hensley,Yes,Yes,Unknown,Hispanic,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,120.0,185.0,a private attorney,267/87,8.0,17.0,Probation,Yes,Yes,No
+861,Matthew Perez,No,No,Unknown,Black,Not yet determined,Female,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,772.0,780.0,unknown,Guilty verdict/finding,1.0,43.0,House of Corrections,No,No,Yes
+862,Roger Hensley,No,No,Less,Black,Superior Court,Male,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,540.0,204.0,a court-appointed lawyer,Dismissed,7.0,50.0,"State Prison,Probation",Yes,No,Yes
+863,Kyle White,No,No,Less,Hispanic,Not yet determined,Male,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,104.0,383.0,unknown,Other,1.0,2.0,State Prison,Yes,Yes,No
+864,Marie Green,Yes,Yes,Unclear,Unknown,Not yet determined,Female,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,258.0,581.0,from CPCS,Continuance without a finding,9.0,38.0,"State Prison,Probation",Yes,Yes,No
+865,Gregory Wilkins,Yes,No,Unclear,White,Not yet determined,Female,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,988.0,767.0,from CPCS,Guilty verdict/finding,2.0,46.0,State Prison,No,No,Yes
+866,Paul Russell,No,No,More,White,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,426.0,640.0,a private attorney,Guilty verdict/finding,6.0,16.0,County/Split,No,Yes,No
+867,Paul Russell,Yes,No,Unclear,Other,Not yet determined,Female,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,410.0,51.0,unknown,Continuance without a finding,1.0,25.0,County/Split,Yes,Yes,No
+868,Paul Russell,Yes,Yes,Unknown,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,485.0,52.0,unknown,Nolle Prosequi,0.0,28.0,County/Split,Yes,No,No
+869,Gregory Wilkins,No,No,Unclear,Other,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,214.0,688.0,a court-appointed lawyer,Dismissed,4.0,38.0,Probation,Yes,Yes,Yes
+870,Matthew Perez,No,No,More,White,Not yet determined,Female,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,258.0,205.0,a court-appointed lawyer,Dismissed,0.0,23.0,County/Split,No,Yes,Yes
+871,Roger Hensley,No,Yes,Less,Black,Not yet determined,Female,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,138.0,131.0,a private attorney,Dismissed,1.0,13.0,State Prison,Yes,No,No
+872,Kaitlin Flores,No,Yes,Less,Unknown,Superior Court,Female,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,804.0,167.0,from CPCS,Other,0.0,6.0,County/Split,Yes,Yes,No
+873,Matthew Perez,No,Yes,More,Black,Not yet determined,Female,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,261.0,540.0,a court-appointed lawyer,Continuance without a finding,2.0,28.0,County/Split,No,No,Yes
+874,Rebecca Becker,No,No,Less,White,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,334.0,146.0,a private attorney,Other,8.0,4.0,"State Prison,Probation",Yes,No,Yes
+875,Zachary Mccall,Yes,Yes,More,Black,District Court,Female,1.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,605.0,158.0,a private attorney,Dismissed,3.0,3.0,State Prison,No,No,No
+876,Roger Hensley,Yes,No,More,Black,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,964.0,167.0,from CPCS,Other,3.0,16.0,State Prison,Yes,Yes,No
+877,Paul Russell,Yes,No,More,White,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,102.0,445.0,a court-appointed lawyer,267/87,5.0,50.0,County/Split,No,No,No
+878,Matthew Perez,Yes,No,Unknown,Hispanic,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,755.0,417.0,a private attorney,Nolle Prosequi,9.0,5.0,House of Corrections,No,Yes,Yes
+879,Paul Russell,No,No,Unknown,Unknown,District Court,Male,0.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,559.0,271.0,unknown,Continuance without a finding,8.0,32.0,"State Prison,Probation",No,No,Yes
+880,Gregory Wilkins,Yes,No,Unclear,Unknown,Not yet determined,Male,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,899.0,477.0,a court-appointed lawyer,Dismissed,5.0,13.0,"State Prison,Probation",No,No,Yes
+881,Kaitlin Flores,Yes,Yes,Unclear,Black,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,930.0,14.0,a court-appointed lawyer,Nolle Prosequi,5.0,36.0,"State Prison,Probation",No,Yes,No
+882,Julia Obrien,Yes,No,Unknown,Other,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,951.0,266.0,a court-appointed lawyer,Nolle Prosequi,2.0,23.0,House of Corrections,Yes,No,No
+883,Gregory Wilkins,Yes,No,Unknown,White,Not yet determined,Female,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,883.0,396.0,a private attorney,Continuance without a finding,10.0,18.0,State Prison,Yes,No,Yes
+884,Rebecca Becker,No,No,More,Other,Superior Court,Male,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,838.0,703.0,a private attorney,267/87,9.0,42.0,Probation,Yes,Yes,No
+885,Zachary Mccall,Yes,No,Less,Other,Not yet determined,Male,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,124.0,641.0,a private attorney,Continuance without a finding,1.0,8.0,County/Split,No,Yes,Yes
+886,Marie Green,Yes,No,Unclear,Unknown,Not yet determined,Female,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,911.0,140.0,unknown,Dismissed,1.0,28.0,County/Split,Yes,No,Yes
+887,Julia Obrien,Yes,Yes,Less,Hispanic,Not yet determined,Female,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,967.0,641.0,a private attorney,267/87,5.0,34.0,State Prison,No,Yes,Yes
+888,Rebecca Becker,Yes,No,Unknown,White,Not yet determined,Male,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,318.0,604.0,a court-appointed lawyer,Dismissed,1.0,23.0,"State Prison,Probation",No,Yes,Yes
+889,Kyle White,No,No,Unknown,Unknown,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,957.0,555.0,unknown,Nolle Prosequi,3.0,21.0,House of Corrections,Yes,Yes,No
+890,Paul Russell,No,No,Unknown,Other,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,711.0,305.0,unknown,Dismissed,5.0,20.0,House of Corrections,No,Yes,No
+891,Zachary Mccall,No,Yes,Unknown,Hispanic,District Court,Female,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,115.0,527.0,a court-appointed lawyer,Continuance without a finding,0.0,10.0,Probation,Yes,Yes,Yes
+892,Rebecca Becker,Yes,Yes,More,Other,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,294.0,176.0,a private attorney,Nolle Prosequi,8.0,31.0,"State Prison,Probation",No,Yes,Yes
+893,Matthew Perez,Yes,No,More,Hispanic,Superior Court,Female,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,488.0,437.0,a court-appointed lawyer,267/87,8.0,10.0,Probation,No,No,Yes
+894,Paul Russell,Yes,No,Unclear,Hispanic,Superior Court,Female,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,632.0,723.0,unknown,Continuance without a finding,10.0,19.0,Probation,Yes,Yes,Yes
+895,Kyle White,No,Yes,Less,Hispanic,Superior Court,Male,1.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,661.0,169.0,a private attorney,267/87,0.0,5.0,County/Split,No,Yes,Yes
+896,Rebecca Becker,No,Yes,Less,Black,Not yet determined,Male,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,627.0,76.0,a court-appointed lawyer,Dismissed,10.0,48.0,State Prison,Yes,Yes,No
+897,Kaitlin Flores,Yes,Yes,Less,Unknown,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,736.0,558.0,a private attorney,Dismissed,8.0,46.0,"State Prison,Probation",Yes,Yes,No
+898,Gregory Wilkins,No,Yes,More,Other,Superior Court,Female,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,267.0,214.0,a private attorney,Dismissed,7.0,15.0,"State Prison,Probation",No,Yes,Yes
+899,Zachary Mccall,Yes,Yes,Unknown,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,263.0,482.0,from CPCS,Dismissed,4.0,37.0,County/Split,No,No,No
+900,Marie Green,Yes,No,Unclear,Black,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,837.0,459.0,a private attorney,Guilty verdict/finding,7.0,11.0,State Prison,No,No,Yes
+901,Rebecca Becker,Yes,No,Less,Unknown,Superior Court,Female,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,438.0,128.0,a private attorney,Continuance without a finding,1.0,37.0,House of Corrections,No,Yes,No
+902,Paul Russell,Yes,Yes,Unclear,Hispanic,District Court,Male,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,448.0,308.0,a private attorney,Dismissed,9.0,17.0,State Prison,No,No,No
+903,Rebecca Becker,Yes,Yes,Unclear,White,Superior Court,Female,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,978.0,673.0,a court-appointed lawyer,Other,10.0,7.0,Probation,Yes,Yes,No
+904,Paul Russell,No,Yes,Unclear,White,Not yet determined,Male,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,399.0,768.0,unknown,Continuance without a finding,8.0,42.0,Probation,No,No,No
+905,Zachary Mccall,No,Yes,More,Unknown,Not yet determined,Female,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,502.0,378.0,from CPCS,Guilty verdict/finding,6.0,9.0,"State Prison,Probation",No,No,No
+906,Rebecca Becker,No,No,Less,Black,Superior Court,Female,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,198.0,403.0,unknown,Continuance without a finding,7.0,32.0,House of Corrections,Yes,Yes,Yes
+907,Matthew Perez,Yes,No,More,Unknown,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,512.0,182.0,a private attorney,267/87,2.0,41.0,House of Corrections,Yes,No,No
+908,Kyle White,No,Yes,More,Unknown,District Court,Male,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,281.0,364.0,a court-appointed lawyer,Other,4.0,21.0,House of Corrections,No,Yes,No
+909,Roger Hensley,No,No,Unknown,Hispanic,District Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,602.0,167.0,a private attorney,Nolle Prosequi,0.0,41.0,County/Split,No,Yes,No
+910,Kyle White,Yes,Yes,Unclear,Hispanic,District Court,Female,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,429.0,595.0,a court-appointed lawyer,Nolle Prosequi,6.0,17.0,County/Split,No,No,No
+911,Paul Russell,Yes,No,Unclear,Hispanic,District Court,Female,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,650.0,623.0,a private attorney,Guilty verdict/finding,10.0,23.0,"State Prison,Probation",Yes,No,No
+912,Kaitlin Flores,No,No,More,Hispanic,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,888.0,85.0,from CPCS,267/87,5.0,43.0,Probation,Yes,No,No
+913,Paul Russell,No,No,More,White,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,837.0,120.0,a private attorney,267/87,8.0,45.0,Probation,No,No,Yes
+914,Zachary Mccall,No,No,Unclear,Other,Not yet determined,Male,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,429.0,549.0,from CPCS,Dismissed,9.0,47.0,Probation,Yes,No,No
+915,Kaitlin Flores,Yes,Yes,Less,White,Superior Court,Female,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,904.0,545.0,a court-appointed lawyer,Guilty verdict/finding,9.0,22.0,Probation,Yes,No,No
+916,Zachary Mccall,Yes,No,Unclear,Unknown,District Court,Female,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,929.0,623.0,unknown,Nolle Prosequi,2.0,43.0,Probation,No,No,Yes
+917,Julia Obrien,Yes,No,More,Unknown,Superior Court,Female,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,702.0,526.0,a court-appointed lawyer,Continuance without a finding,10.0,32.0,House of Corrections,Yes,Yes,Yes
+918,Zachary Mccall,No,Yes,Unclear,Other,Not yet determined,Male,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,177.0,312.0,a court-appointed lawyer,Other,7.0,37.0,House of Corrections,Yes,No,Yes
+919,Julia Obrien,Yes,No,Less,Hispanic,District Court,Male,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,123.0,534.0,unknown,Guilty verdict/finding,0.0,36.0,"State Prison,Probation",No,No,No
+920,Roger Hensley,Yes,Yes,Unknown,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,622.0,800.0,from CPCS,Continuance without a finding,7.0,47.0,Probation,Yes,No,No
+921,Paul Russell,No,No,Unclear,Other,District Court,Female,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,713.0,649.0,from CPCS,Guilty verdict/finding,6.0,40.0,Probation,No,Yes,Yes
+922,Matthew Perez,No,Yes,More,Hispanic,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,720.0,255.0,unknown,267/87,4.0,48.0,County/Split,Yes,Yes,No
+923,Julia Obrien,No,No,Unclear,White,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,880.0,77.0,unknown,Continuance without a finding,0.0,35.0,County/Split,Yes,No,Yes
+924,Kyle White,No,No,Unknown,White,Not yet determined,Female,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,130.0,310.0,unknown,267/87,2.0,23.0,House of Corrections,No,Yes,No
+925,Roger Hensley,No,Yes,Less,Hispanic,Superior Court,Female,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,385.0,206.0,from CPCS,Dismissed,7.0,33.0,State Prison,No,No,No
+926,Zachary Mccall,Yes,Yes,Unknown,Other,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,866.0,180.0,unknown,267/87,9.0,15.0,House of Corrections,Yes,No,No
+927,Kaitlin Flores,Yes,No,Less,Other,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,841.0,433.0,unknown,Guilty verdict/finding,3.0,33.0,"State Prison,Probation",No,Yes,No
+928,Marie Green,No,Yes,More,Black,District Court,Male,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,105.0,717.0,from CPCS,Nolle Prosequi,0.0,18.0,State Prison,No,Yes,Yes
+929,Julia Obrien,No,No,Unknown,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,151.0,214.0,a private attorney,Nolle Prosequi,3.0,41.0,State Prison,Yes,No,No
+930,Kaitlin Flores,No,No,Unclear,White,Superior Court,Male,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,954.0,81.0,from CPCS,Other,7.0,20.0,Probation,Yes,Yes,Yes
+931,Roger Hensley,No,No,Unclear,Unknown,District Court,Female,0.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,548.0,787.0,a private attorney,267/87,1.0,30.0,Probation,No,No,No
+932,Roger Hensley,Yes,No,Unknown,Black,Not yet determined,Male,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,577.0,43.0,a court-appointed lawyer,Guilty verdict/finding,4.0,30.0,Probation,No,No,No
+933,Paul Russell,Yes,No,Unclear,Other,District Court,Male,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,722.0,747.0,unknown,Nolle Prosequi,5.0,37.0,County/Split,No,Yes,No
+934,Gregory Wilkins,Yes,Yes,Unclear,Unknown,Not yet determined,Female,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,491.0,531.0,from CPCS,Guilty verdict/finding,3.0,28.0,Probation,Yes,Yes,No
+935,Paul Russell,Yes,Yes,Unclear,Unknown,District Court,Male,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,230.0,687.0,unknown,Dismissed,8.0,41.0,State Prison,No,Yes,Yes
+936,Roger Hensley,Yes,No,Unknown,Hispanic,Superior Court,Female,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,788.0,50.0,a court-appointed lawyer,Other,4.0,36.0,"State Prison,Probation",No,Yes,Yes
+937,Roger Hensley,No,No,Unclear,White,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,479.0,415.0,a private attorney,Other,0.0,19.0,"State Prison,Probation",No,No,Yes
+938,Matthew Perez,No,No,Less,Black,Not yet determined,Female,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,280.0,211.0,a private attorney,Guilty verdict/finding,7.0,16.0,"State Prison,Probation",Yes,No,Yes
+939,Roger Hensley,No,Yes,Less,Unknown,Not yet determined,Female,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,716.0,682.0,a private attorney,Continuance without a finding,5.0,6.0,State Prison,Yes,No,Yes
+940,Julia Obrien,No,No,Unclear,Black,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,445.0,172.0,a private attorney,Dismissed,9.0,24.0,House of Corrections,No,No,Yes
+941,Gregory Wilkins,Yes,Yes,More,Unknown,District Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,803.0,436.0,a private attorney,Nolle Prosequi,5.0,28.0,Probation,No,Yes,No
+942,Matthew Perez,No,No,Unknown,White,District Court,Female,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,541.0,755.0,a private attorney,Other,7.0,33.0,County/Split,No,No,No
+943,Kaitlin Flores,No,Yes,Less,Hispanic,Not yet determined,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,411.0,670.0,a private attorney,267/87,3.0,27.0,County/Split,No,Yes,Yes
+944,Kyle White,No,No,Less,Other,Not yet determined,Male,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,461.0,661.0,a private attorney,267/87,0.0,20.0,"State Prison,Probation",No,Yes,No
+945,Roger Hensley,No,Yes,More,Hispanic,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,849.0,650.0,unknown,Continuance without a finding,6.0,27.0,"State Prison,Probation",No,No,No
+946,Gregory Wilkins,Yes,Yes,Unclear,Black,District Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,875.0,549.0,from CPCS,Dismissed,10.0,48.0,Probation,No,No,No
+947,Marie Green,No,Yes,Unclear,White,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,783.0,20.0,from CPCS,Guilty verdict/finding,9.0,12.0,Probation,Yes,No,No
+948,Gregory Wilkins,No,Yes,Unclear,Hispanic,Not yet determined,Female,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,688.0,614.0,a private attorney,Guilty verdict/finding,0.0,7.0,House of Corrections,No,Yes,No
+949,Kyle White,Yes,No,More,Unknown,Superior Court,Male,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,138.0,262.0,a court-appointed lawyer,Other,1.0,5.0,State Prison,Yes,Yes,No
+950,Kaitlin Flores,Yes,No,Unclear,Black,Superior Court,Male,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,573.0,303.0,from CPCS,Dismissed,1.0,0.0,"State Prison,Probation",Yes,No,Yes
+951,Rebecca Becker,No,Yes,Unknown,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,210.0,628.0,from CPCS,Guilty verdict/finding,10.0,10.0,State Prison,No,No,Yes
+952,Julia Obrien,Yes,Yes,Unknown,Other,District Court,Female,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,451.0,420.0,from CPCS,267/87,7.0,44.0,"State Prison,Probation",Yes,Yes,No
+953,Kyle White,Yes,No,Unclear,Unknown,District Court,Male,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,940.0,242.0,a court-appointed lawyer,267/87,8.0,19.0,Probation,Yes,No,No
+954,Zachary Mccall,Yes,No,Less,Black,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,926.0,360.0,from CPCS,Continuance without a finding,6.0,13.0,County/Split,No,Yes,No
+955,Zachary Mccall,No,Yes,Less,Unknown,Superior Court,Female,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,798.0,61.0,from CPCS,Other,7.0,46.0,Probation,No,No,No
+956,Kaitlin Flores,Yes,Yes,Unclear,Hispanic,Superior Court,Female,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,633.0,341.0,a private attorney,Other,9.0,2.0,"State Prison,Probation",Yes,No,No
+957,Roger Hensley,Yes,No,Unknown,Unknown,Superior Court,Female,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,292.0,320.0,unknown,Dismissed,10.0,5.0,Probation,Yes,Yes,Yes
+958,Marie Green,Yes,No,Less,Other,Not yet determined,Female,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,455.0,715.0,from CPCS,Guilty verdict/finding,7.0,19.0,House of Corrections,Yes,Yes,Yes
+959,Zachary Mccall,Yes,Yes,More,Unknown,District Court,Female,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,566.0,230.0,a court-appointed lawyer,Nolle Prosequi,8.0,27.0,"State Prison,Probation",No,No,No
+960,Kaitlin Flores,No,No,More,Hispanic,District Court,Female,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,613.0,770.0,a private attorney,Continuance without a finding,6.0,45.0,County/Split,No,No,Yes
+961,Gregory Wilkins,Yes,No,Unclear,Black,Not yet determined,Female,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,276.0,747.0,from CPCS,Guilty verdict/finding,1.0,45.0,Probation,Yes,Yes,No
+962,Marie Green,No,Yes,More,Hispanic,District Court,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,911.0,276.0,a private attorney,Nolle Prosequi,7.0,3.0,House of Corrections,Yes,Yes,No
+963,Marie Green,Yes,No,Unclear,Hispanic,Not yet determined,Female,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,279.0,365.0,a court-appointed lawyer,267/87,6.0,3.0,County/Split,No,Yes,No
+964,Julia Obrien,No,No,Unclear,Unknown,Superior Court,Male,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,518.0,439.0,a court-appointed lawyer,Other,9.0,9.0,Probation,No,No,No
+965,Zachary Mccall,Yes,Yes,Unknown,White,Not yet determined,Male,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,712.0,354.0,a private attorney,Guilty verdict/finding,10.0,16.0,"State Prison,Probation",Yes,No,Yes
+966,Gregory Wilkins,No,No,Unknown,White,Superior Court,Male,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,593.0,580.0,a private attorney,Dismissed,0.0,18.0,State Prison,No,No,Yes
+967,Roger Hensley,No,Yes,More,Black,District Court,Male,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,582.0,14.0,a court-appointed lawyer,Dismissed,9.0,20.0,County/Split,No,Yes,No
+968,Roger Hensley,No,No,Unknown,Other,District Court,Female,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,579.0,484.0,from CPCS,Nolle Prosequi,7.0,42.0,County/Split,No,Yes,Yes
+969,Matthew Perez,No,No,Unclear,Black,Superior Court,Female,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,917.0,239.0,from CPCS,Nolle Prosequi,3.0,42.0,State Prison,No,Yes,No
+970,Roger Hensley,No,Yes,Unclear,White,District Court,Female,0.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,779.0,74.0,a court-appointed lawyer,Continuance without a finding,3.0,0.0,"State Prison,Probation",No,No,Yes
+971,Marie Green,Yes,No,Unclear,Unknown,Not yet determined,Male,0.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,436.0,507.0,a private attorney,Dismissed,10.0,45.0,House of Corrections,Yes,No,Yes
+972,Zachary Mccall,Yes,No,More,White,Not yet determined,Female,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,228.0,489.0,a court-appointed lawyer,Dismissed,7.0,23.0,Probation,Yes,Yes,No
+973,Kyle White,No,No,Unknown,Other,District Court,Female,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,809.0,13.0,unknown,Other,4.0,34.0,County/Split,No,No,Yes
+974,Roger Hensley,Yes,No,Unclear,White,Not yet determined,Female,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,339.0,652.0,from CPCS,267/87,10.0,16.0,House of Corrections,No,Yes,No
+975,Rebecca Becker,No,No,Less,Hispanic,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,612.0,729.0,unknown,267/87,4.0,14.0,Probation,No,No,Yes
+976,Kyle White,Yes,No,More,White,Superior Court,Male,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,529.0,617.0,from CPCS,267/87,4.0,20.0,County/Split,No,Yes,Yes
+977,Matthew Perez,Yes,No,More,Black,Not yet determined,Female,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,932.0,659.0,a private attorney,Other,0.0,20.0,Probation,No,Yes,Yes
+978,Roger Hensley,Yes,Yes,Unknown,Other,Not yet determined,Female,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,694.0,86.0,a private attorney,267/87,2.0,36.0,County/Split,No,No,Yes
+979,Kyle White,No,Yes,Less,Unknown,Superior Court,"Other (please specify their preferred gender identity, if known)",1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,611.0,247.0,from CPCS,Other,5.0,1.0,State Prison,No,No,No
+980,Zachary Mccall,No,Yes,Unknown,Unknown,Not yet determined,Female,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,357.0,204.0,from CPCS,267/87,8.0,37.0,"State Prison,Probation",Yes,Yes,No
+981,Rebecca Becker,No,No,Unknown,White,Not yet determined,Male,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,246.0,465.0,a court-appointed lawyer,267/87,9.0,7.0,County/Split,No,Yes,No
+982,Rebecca Becker,No,No,More,White,District Court,Male,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,664.0,157.0,unknown,Guilty verdict/finding,1.0,30.0,County/Split,Yes,Yes,No
+983,Kaitlin Flores,No,Yes,Less,Black,District Court,Female,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,768.0,8.0,a private attorney,267/87,10.0,17.0,House of Corrections,No,Yes,No
+984,Zachary Mccall,Yes,No,Unknown,White,District Court,Female,0.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,460.0,558.0,from CPCS,Other,0.0,4.0,County/Split,No,Yes,No
+985,Roger Hensley,No,Yes,Less,White,District Court,Male,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,366.0,366.0,a private attorney,Guilty verdict/finding,3.0,46.0,State Prison,No,Yes,No
+986,Julia Obrien,Yes,No,Unclear,Hispanic,Not yet determined,"Other (please specify their preferred gender identity, if known)",1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,671.0,551.0,a private attorney,Other,0.0,42.0,Probation,No,Yes,Yes
+987,Roger Hensley,Yes,No,Less,Hispanic,District Court,Male,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,489.0,200.0,from CPCS,Other,9.0,11.0,"State Prison,Probation",Yes,Yes,No
+988,Gregory Wilkins,No,No,Less,Other,District Court,Male,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,765.0,442.0,unknown,Nolle Prosequi,0.0,47.0,"State Prison,Probation",Yes,No,No
+989,Rebecca Becker,No,No,Less,Black,Superior Court,Female,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,754.0,596.0,from CPCS,267/87,8.0,14.0,State Prison,No,Yes,Yes
+990,Rebecca Becker,No,Yes,Less,Unknown,Not yet determined,Male,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,437.0,442.0,from CPCS,Dismissed,0.0,4.0,Probation,No,Yes,No
+991,Gregory Wilkins,Yes,No,Unclear,Hispanic,Not yet determined,Male,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,728.0,41.0,a court-appointed lawyer,Other,5.0,48.0,House of Corrections,No,No,No
+992,Gregory Wilkins,No,No,Less,Black,Superior Court,Male,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,504.0,130.0,a private attorney,Nolle Prosequi,6.0,25.0,Probation,No,No,No
+993,Kaitlin Flores,Yes,Yes,Less,Black,District Court,Male,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,893.0,525.0,unknown,Nolle Prosequi,0.0,31.0,State Prison,No,Yes,No
+994,Matthew Perez,Yes,No,Unclear,Black,Superior Court,"Other (please specify their preferred gender identity, if known)",0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,308.0,781.0,unknown,Guilty verdict/finding,6.0,12.0,House of Corrections,No,Yes,No
+995,Roger Hensley,No,No,Unclear,Black,Superior Court,Male,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,110.0,393.0,from CPCS,267/87,5.0,26.0,House of Corrections,No,No,No
+996,Kaitlin Flores,No,Yes,Unknown,Other,District Court,Female,1.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,368.0,131.0,a private attorney,Guilty verdict/finding,7.0,33.0,"State Prison,Probation",No,No,No
+997,Zachary Mccall,No,Yes,Unclear,Hispanic,Not yet determined,Female,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,185.0,695.0,from CPCS,267/87,9.0,44.0,House of Corrections,Yes,No,No
+998,Julia Obrien,No,Yes,More,White,District Court,Female,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,535.0,140.0,unknown,Continuance without a finding,7.0,28.0,State Prison,Yes,Yes,Yes
+999,Matthew Perez,No,No,Unclear,White,Superior Court,Female,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,175.0,715.0,a court-appointed lawyer,Other,9.0,44.0,Probation,No,Yes,No
